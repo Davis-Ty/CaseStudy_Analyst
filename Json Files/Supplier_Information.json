@@ -1,0 +1,22 @@
+[
+    {
+        "Currency": "USA",
+        "Hammer_Cost_Per_Unit": 0.82,
+        "Hammer_Product_Cost": 370419.82999999996,
+        "Max_LB_Per_Shipment": 44000,
+        "Supplier_ID": "B",
+        "Supplier_Name": "Supplier_B",
+        "Total_Cost": "709,460",
+        "Transportation_Cost": 339040
+    },
+    {
+        "Currency": "USA",
+        "Hammer_Cost_Per_Unit": 0.8,
+        "Hammer_Product_Cost": 361385.2,
+        "Max_LB_Per_Shipment": 44000,
+        "Supplier_ID": "A",
+        "Supplier_Name": "Supplier_A",
+        "Total_Cost": "744,375",
+        "Transportation_Cost": 382990
+    }
+]

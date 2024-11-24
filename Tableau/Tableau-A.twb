@@ -1,0 +1,1049 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20243.24.1010.1014                               -->
+<workbook original-version='18.1' source-build='2024.3.0 (20243.24.1010.1014)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AnimationOnByDefault />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='Supplier_Cost_in_group_no_hammer_production' inline='true' name='federated.1xf6nn20ucx0t61di2sup1iwfuld' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Supplier_Cost_in_group_no_hammer_production' name='semistructpassivestore-direct.1ub36eb1xnor1p1c8kv770i5himx'>
+            <connection class='semistructpassivestore-direct' directory='C:/Users/tkdav/OneDrive/Desktop/Case_Study_Davis-T/New folder' filename='Supplier_Cost_in_group_no_hammer_production.json' password='' server=''>
+              <semistruct-schemas>
+                <semistruct-schema table='[All_TOOL_Shipping_information.json]'>
+                  <map key='{root}' value='true' />
+                </semistruct-schema>
+                <semistruct-schema table='[Historical_Shipments.json]'>
+                  <map key='{root}' value='true' />
+                </semistruct-schema>
+                <semistruct-schema table='[Product_Information.json]'>
+                  <map key='{root}' value='true' />
+                </semistruct-schema>
+                <semistruct-schema table='[Supplier_A_With_Hammers.json]'>
+                  <map key='{root}' value='true' />
+                </semistruct-schema>
+                <semistruct-schema table='[Supplier_Cost_in_group_no_hammer_production.json]'>
+                  <map key='{root}' value='true' />
+                </semistruct-schema>
+              </semistruct-schemas>
+            </connection>
+          </named-connection>
+        </named-connections>
+        <relation connection='semistructpassivestore-direct.1ub36eb1xnor1p1c8kv770i5himx' name='Supplier_A_With_Hammers.json' table='[Supplier_A_With_Hammers.json]' type='table' />
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>Document Index (generated)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Document Index (generated)]</local-name>
+            <parent-name>[Supplier_A_With_Hammers.json]</parent-name>
+            <remote-alias>Document Index (generated)</remote-alias>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Supplier_A_With_Hammers.json_5D036C57312843AA8C61B4F0947C7B1E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ALL_Supplier_ID</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[ALL_Supplier_ID]</local-name>
+            <parent-name>[Supplier_A_With_Hammers.json]</parent-name>
+            <remote-alias>ALL_Supplier_ID</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <object-id>[Supplier_A_With_Hammers.json_5D036C57312843AA8C61B4F0947C7B1E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Carrier_X</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Carrier_X]</local-name>
+            <parent-name>[Supplier_A_With_Hammers.json]</parent-name>
+            <remote-alias>Carrier_X</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Supplier_A_With_Hammers.json_5D036C57312843AA8C61B4F0947C7B1E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Carrier_Y</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Carrier_Y]</local-name>
+            <parent-name>[Supplier_A_With_Hammers.json]</parent-name>
+            <remote-alias>Carrier_Y</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Supplier_A_With_Hammers.json_5D036C57312843AA8C61B4F0947C7B1E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Order_cost</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Order_cost]</local-name>
+            <parent-name>[Supplier_A_With_Hammers.json]</parent-name>
+            <remote-alias>Order_cost</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Supplier_A_With_Hammers.json_5D036C57312843AA8C61B4F0947C7B1E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Order_date</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Order_date]</local-name>
+            <parent-name>[Supplier_A_With_Hammers.json]</parent-name>
+            <remote-alias>Order_date</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <object-id>[Supplier_A_With_Hammers.json_5D036C57312843AA8C61B4F0947C7B1E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Store_number</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Store_number]</local-name>
+            <parent-name>[Supplier_A_With_Hammers.json]</parent-name>
+            <remote-alias>Store_number</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Supplier_A_With_Hammers.json_5D036C57312843AA8C61B4F0947C7B1E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Total_cost_sum</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Total_cost_sum]</local-name>
+            <parent-name>[Supplier_A_With_Hammers.json]</parent-name>
+            <remote-alias>Total_cost_sum</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Supplier_A_With_Hammers.json_5D036C57312843AA8C61B4F0947C7B1E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Total_weight_sum</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Total_weight_sum]</local-name>
+            <parent-name>[Supplier_A_With_Hammers.json]</parent-name>
+            <remote-alias>Total_weight_sum</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Supplier_A_With_Hammers.json_5D036C57312843AA8C61B4F0947C7B1E]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='ALL Supplier ID' datatype='string' name='[ALL_Supplier_ID]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>ALL_Supplier_ID</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Carrier X' datatype='real' name='[Carrier_X]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>Carrier_X</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Carrier Y' datatype='real' name='[Carrier_Y]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>Carrier_Y</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column aggregation='Sum' datatype='integer' name='[Document Index (generated)]' role='dimension' type='ordinal'>
+        <desc>
+          <formatted-text>
+            <run>Document Index (generated)</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Order cost' datatype='real' name='[Order_cost]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>Order_cost</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Order date' datatype='string' name='[Order_date]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>Order_date</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column aggregation='Sum' caption='Store number' datatype='real' name='[Store_number]' role='dimension' type='ordinal'>
+        <desc>
+          <formatted-text>
+            <run>Store_number</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Total cost sum' datatype='real' name='[Total_cost_sum]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>Total_cost_sum</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Total weight sum' datatype='real' name='[Total_weight_sum]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>Total_weight_sum</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Supplier_A_With_Hammers.json' datatype='table' name='[__tableau_internal_object_id__].[Supplier_A_With_Hammers.json_5D036C57312843AA8C61B4F0947C7B1E]' role='measure' type='quantitative' />
+      <folders-common>
+        <folder name='Supplier A With Hammers'>
+          <folder-item name='[ALL_Supplier_ID]' type='field' />
+          <folder-item name='[Document Index (generated)]' type='field' />
+          <folder-item name='[Order_date]' type='field' />
+          <folder-item name='[Store_number]' type='field' />
+        </folder>
+      </folders-common>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' rowDisplayCount='1000' show-structure='false' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='Supplier_A_With_Hammers.json' id='Supplier_A_With_Hammers.json_5D036C57312843AA8C61B4F0947C7B1E'>
+            <properties context=''>
+              <relation connection='semistructpassivestore-direct.1ub36eb1xnor1p1c8kv770i5himx' name='Supplier_A_With_Hammers.json' table='[Supplier_A_With_Hammers.json]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+    <datasource caption='Supplier_Cost_in_group_no_hammer_production (2)' inline='true' name='federated.1rr4uae0gm8q9d17sok3m1s8y90a' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Supplier_Cost_in_group_no_hammer_production' name='semistructpassivestore-direct.1c8oyr105cg6x411b4ilz1hcq0q2'>
+            <connection class='semistructpassivestore-direct' directory='C:/Users/tkdav/OneDrive/Desktop/Case_Study_Davis-T/New folder' filename='Supplier_Cost_in_group_no_hammer_production.json' password='' server=''>
+              <semistruct-schemas>
+                <semistruct-schema table='[Supplier_Cost_in_group_no_hammer_production.json]'>
+                  <map key='{root}' value='true' />
+                </semistruct-schema>
+              </semistruct-schemas>
+            </connection>
+          </named-connection>
+        </named-connections>
+        <relation connection='semistructpassivestore-direct.1c8oyr105cg6x411b4ilz1hcq0q2' name='Supplier_Cost_in_group_no_hammer_production.json' table='[Supplier_Cost_in_group_no_hammer_production.json]' type='table' />
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>Document Index (generated)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Document Index (generated)]</local-name>
+            <parent-name>[Supplier_Cost_in_group_no_hammer_production.json]</parent-name>
+            <remote-alias>Document Index (generated)</remote-alias>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Supplier_Cost_in_group_no_hammer_production.json_AA231FDB03F346688E62790CCD8E4CF6]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Supplier</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Supplier]</local-name>
+            <parent-name>[Supplier_Cost_in_group_no_hammer_production.json]</parent-name>
+            <remote-alias>Supplier</remote-alias>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='binary' />
+            <object-id>[Supplier_Cost_in_group_no_hammer_production.json_AA231FDB03F346688E62790CCD8E4CF6]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Total_Cost</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Total_Cost]</local-name>
+            <parent-name>[Supplier_Cost_in_group_no_hammer_production.json]</parent-name>
+            <remote-alias>Total_Cost</remote-alias>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Supplier_Cost_in_group_no_hammer_production.json_AA231FDB03F346688E62790CCD8E4CF6]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column aggregation='Sum' datatype='integer' name='[Document Index (generated)]' role='dimension' type='ordinal'>
+        <desc>
+          <formatted-text>
+            <run>Document Index (generated)</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column datatype='string' name='[Supplier]' role='dimension' type='nominal'>
+        <desc>
+          <formatted-text>
+            <run>Supplier</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Total Cost' datatype='real' name='[Total_Cost]' role='measure' type='quantitative'>
+        <desc>
+          <formatted-text>
+            <run>Total_Cost</run>
+          </formatted-text>
+        </desc>
+      </column>
+      <column caption='Supplier_Cost_in_group_no_hammer_production.json' datatype='table' name='[__tableau_internal_object_id__].[Supplier_Cost_in_group_no_hammer_production.json_AA231FDB03F346688E62790CCD8E4CF6]' role='measure' type='quantitative' />
+      <column-instance column='[Supplier]' derivation='None' name='[none:Supplier:nk]' pivot='key' type='nominal' />
+      <folders-common>
+        <folder name='Supplier Cost in group no hammer production'>
+          <folder-item name='[Document Index (generated)]' type='field' />
+          <folder-item name='[Supplier]' type='field' />
+        </folder>
+      </folders-common>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='false' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Supplier:nk]' type='palette'>
+            <map to='#309143'>
+              <bucket>&quot;Supplier_B_ALL_TOOLS&quot;</bucket>
+            </map>
+            <map to='#8ace7e'>
+              <bucket>&quot;Supplier_B_A_No_hammer&quot;</bucket>
+            </map>
+            <map to='#b60a1c'>
+              <bucket>&quot;Supplier_A_ALL_TOOLS&quot;</bucket>
+            </map>
+            <map to='#f0bd27'>
+              <bucket>&quot;Supplier_A_B_No_hammer&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='Supplier_Cost_in_group_no_hammer_production.json' id='Supplier_Cost_in_group_no_hammer_production.json_AA231FDB03F346688E62790CCD8E4CF6'>
+            <properties context=''>
+              <relation connection='semistructpassivestore-direct.1c8oyr105cg6x411b4ilz1hcq0q2' name='Supplier_Cost_in_group_no_hammer_production.json' table='[Supplier_Cost_in_group_no_hammer_production.json]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 2'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontalignment='1'>Supplier A vs Supplier B</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Supplier_Cost_in_group_no_hammer_production (2)' name='federated.1rr4uae0gm8q9d17sok3m1s8y90a' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1rr4uae0gm8q9d17sok3m1s8y90a'>
+            <column datatype='string' name='[Supplier]' role='dimension' type='nominal'>
+              <desc>
+                <formatted-text>
+                  <run>Supplier</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column caption='Total Cost' datatype='real' name='[Total_Cost]' role='measure' type='quantitative'>
+              <desc>
+                <formatted-text>
+                  <run>Total_Cost</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column-instance column='[Supplier]' derivation='None' name='[none:Supplier:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Total_Cost]' derivation='Sum' name='[sum:Total_Cost:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' field-type='quantitative' major-origin='0.0' major-spacing='100000.0' minor-origin='0.0' minor-spacing='10000.0' scope='rows' type='space' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]' value='189' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+          <style-rule element='refband'>
+            <format attr='fill-color' id='refline0' value='#e6e6e6' />
+            <format attr='line-visibility' id='refline0' value='on' />
+            <format attr='line-pattern-only' id='refline0' value='solid' />
+            <format attr='stroke-color' id='refline0' value='#0000002a' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]' />
+            </encodings>
+            <reference-line axis-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' enable-instant-analytics='true' formula='min' id='refline0' label-type='none' paired-id='refline1' scope='per-pane' symmetric='false' value-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' z-order='1' />
+            <reference-line axis-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' enable-instant-analytics='true' formula='max' id='refline1' label-type='none' paired-id='refline0' scope='per-pane' symmetric='false' value-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' z-order='2' />
+            <reference-line axis-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' enable-instant-analytics='true' formula='min' id='refline2' label-type='none' paired-id='refline3' scope='per-pane' symmetric='false' value-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' z-order='3' />
+            <reference-line axis-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' enable-instant-analytics='true' formula='max' id='refline3' label-type='none' paired-id='refline2' scope='per-pane' symmetric='false' value-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' z-order='4' />
+            <reference-line axis-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' enable-instant-analytics='true' formula='min' id='refline4' label-type='none' paired-id='refline5' scope='per-pane' symmetric='false' value-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' z-order='5' />
+            <reference-line axis-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' enable-instant-analytics='true' formula='max' id='refline5' label-type='none' paired-id='refline4' scope='per-pane' symmetric='false' value-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' z-order='6' />
+            <style>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]</rows>
+        <cols>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</cols>
+        <mark-labels>
+          <mark-label id='0' label-state='on'>
+            <tuple-reference>
+              <tuple-descriptor>
+                <pane-descriptor>
+                  <x-fields>
+                    <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</field>
+                  </x-fields>
+                  <y-fields>
+                    <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]</field>
+                  </y-fields>
+                </pane-descriptor>
+                <columns>
+                  <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</field>
+                  <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]</field>
+                </columns>
+              </tuple-descriptor>
+              <tuple>
+                <value>&quot;Supplier_A_ALL_TOOLS&quot;</value>
+                <value>447040.0</value>
+              </tuple>
+            </tuple-reference>
+          </mark-label>
+          <mark-label id='1' label-state='on'>
+            <tuple-reference>
+              <tuple-descriptor>
+                <pane-descriptor>
+                  <x-fields>
+                    <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</field>
+                  </x-fields>
+                  <y-fields>
+                    <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]</field>
+                  </y-fields>
+                </pane-descriptor>
+                <columns>
+                  <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</field>
+                  <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]</field>
+                </columns>
+              </tuple-descriptor>
+              <tuple>
+                <value>&quot;Supplier_A_B_No_hammer&quot;</value>
+                <value>382989.59999999998</value>
+              </tuple>
+            </tuple-reference>
+          </mark-label>
+          <mark-label id='2' label-state='on'>
+            <tuple-reference>
+              <tuple-descriptor>
+                <pane-descriptor>
+                  <x-fields>
+                    <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</field>
+                  </x-fields>
+                  <y-fields>
+                    <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]</field>
+                  </y-fields>
+                </pane-descriptor>
+                <columns>
+                  <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</field>
+                  <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]</field>
+                </columns>
+              </tuple-descriptor>
+              <tuple>
+                <value>&quot;Supplier_B_A_No_hammer&quot;</value>
+                <value>339039.70999999996</value>
+              </tuple>
+            </tuple-reference>
+          </mark-label>
+          <mark-label id='3' label-state='on'>
+            <tuple-reference>
+              <tuple-descriptor>
+                <pane-descriptor>
+                  <x-fields>
+                    <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</field>
+                  </x-fields>
+                  <y-fields>
+                    <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]</field>
+                  </y-fields>
+                </pane-descriptor>
+                <columns>
+                  <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</field>
+                  <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]</field>
+                </columns>
+              </tuple-descriptor>
+              <tuple>
+                <value>&quot;Supplier_B_ALL_TOOLS&quot;</value>
+                <value>211200.0</value>
+              </tuple>
+            </tuple-reference>
+          </mark-label>
+        </mark-labels>
+        <annotations>
+          <annotation class='area' id='1' text-pinx='0.5' text-piny='0.5' text-width-delta='-18'>
+            <formatted-text>
+              <run>Differnce = 235,840</run>
+            </formatted-text>
+            <top-left>
+              <visual-coordinate class='axis'>
+                <x-coord cell-offset='0.899471'>
+                  <node-reference>
+                    <fields>
+                      <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</field>
+                    </fields>
+                    <multibucket>
+                      <bucket>&quot;Supplier_B_A_No_hammer&quot;</bucket>
+                    </multibucket>
+                  </node-reference>
+                </x-coord>
+                <y-coord axis-value='436369.44723618083'>
+                  <node-reference>
+                    <axis>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]</axis>
+                  </node-reference>
+                </y-coord>
+                <page-reference />
+              </visual-coordinate>
+            </top-left>
+            <bottom-right>
+              <visual-coordinate class='axis'>
+                <x-coord cell-offset='0.835979'>
+                  <node-reference>
+                    <fields>
+                      <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</field>
+                    </fields>
+                    <multibucket>
+                      <bucket>&quot;Supplier_B_ALL_TOOLS&quot;</bucket>
+                    </multibucket>
+                  </node-reference>
+                </x-coord>
+                <y-coord axis-value='354992.4422110552'>
+                  <node-reference>
+                    <axis>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]</axis>
+                  </node-reference>
+                </y-coord>
+                <page-reference />
+              </visual-coordinate>
+            </bottom-right>
+            <text x='0.5' y='0.5' />
+          </annotation>
+        </annotations>
+      </table>
+      <simple-id uuid='{79B913FD-2A0B-4044-9D6D-5FCB857A5C23}' />
+    </worksheet>
+    <worksheet name='Sheet 2 (2)'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontalignment='1'>Supplier A vs Supplier B</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Supplier_Cost_in_group_no_hammer_production (2)' name='federated.1rr4uae0gm8q9d17sok3m1s8y90a' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1rr4uae0gm8q9d17sok3m1s8y90a'>
+            <column datatype='string' name='[Supplier]' role='dimension' type='nominal'>
+              <desc>
+                <formatted-text>
+                  <run>Supplier</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column caption='Total Cost' datatype='real' name='[Total_Cost]' role='measure' type='quantitative'>
+              <desc>
+                <formatted-text>
+                  <run>Total_Cost</run>
+                </formatted-text>
+              </desc>
+            </column>
+            <column-instance column='[Supplier]' derivation='None' name='[none:Supplier:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Total_Cost]' derivation='Sum' name='[sum:Total_Cost:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]'>
+            <groupfilter function='except' user:ui-domain='database' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:Supplier:nk]' />
+              <groupfilter function='union'>
+                <groupfilter function='member' level='[none:Supplier:nk]' member='&quot;Supplier_A_ALL_TOOLS&quot;' />
+                <groupfilter function='member' level='[none:Supplier:nk]' member='&quot;Supplier_B_ALL_TOOLS&quot;' />
+              </groupfilter>
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' field-type='quantitative' major-origin='0.0' major-spacing='100000.0' minor-origin='0.0' minor-spacing='10000.0' scope='rows' type='space' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]' value='269' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+          <style-rule element='refband'>
+            <format attr='fill-color' id='refline0' value='#e6e6e6' />
+            <format attr='line-visibility' id='refline0' value='on' />
+            <format attr='line-pattern-only' id='refline0' value='solid' />
+            <format attr='stroke-color' id='refline0' value='#0000002a' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]' />
+            </encodings>
+            <reference-line axis-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' enable-instant-analytics='true' formula='min' id='refline0' label-type='none' paired-id='refline1' scope='per-pane' symmetric='false' value-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' z-order='1' />
+            <reference-line axis-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' enable-instant-analytics='true' formula='max' id='refline1' label-type='none' paired-id='refline0' scope='per-pane' symmetric='false' value-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' z-order='2' />
+            <reference-line axis-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' enable-instant-analytics='true' formula='min' id='refline2' label-type='none' paired-id='refline3' scope='per-pane' symmetric='false' value-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' z-order='3' />
+            <reference-line axis-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' enable-instant-analytics='true' formula='max' id='refline3' label-type='none' paired-id='refline2' scope='per-pane' symmetric='false' value-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' z-order='4' />
+            <reference-line axis-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' enable-instant-analytics='true' formula='min' id='refline4' label-type='none' paired-id='refline5' scope='per-pane' symmetric='false' value-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' z-order='5' />
+            <reference-line axis-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' enable-instant-analytics='true' formula='max' id='refline5' label-type='none' paired-id='refline4' scope='per-pane' symmetric='false' value-column='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]' z-order='6' />
+            <style>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]</rows>
+        <cols>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</cols>
+        <mark-labels>
+          <mark-label id='1' label-state='on'>
+            <tuple-reference>
+              <tuple-descriptor>
+                <pane-descriptor>
+                  <x-fields>
+                    <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</field>
+                  </x-fields>
+                  <y-fields>
+                    <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]</field>
+                  </y-fields>
+                </pane-descriptor>
+                <columns>
+                  <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</field>
+                  <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]</field>
+                </columns>
+              </tuple-descriptor>
+              <tuple>
+                <value>&quot;Supplier_A_B_No_hammer&quot;</value>
+                <value>382989.59999999998</value>
+              </tuple>
+            </tuple-reference>
+          </mark-label>
+          <mark-label id='2' label-state='on'>
+            <tuple-reference>
+              <tuple-descriptor>
+                <pane-descriptor>
+                  <x-fields>
+                    <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</field>
+                  </x-fields>
+                  <y-fields>
+                    <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]</field>
+                  </y-fields>
+                </pane-descriptor>
+                <columns>
+                  <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</field>
+                  <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]</field>
+                </columns>
+              </tuple-descriptor>
+              <tuple>
+                <value>&quot;Supplier_B_A_No_hammer&quot;</value>
+                <value>339039.70999999996</value>
+              </tuple>
+            </tuple-reference>
+          </mark-label>
+        </mark-labels>
+        <annotations>
+          <annotation class='area' id='1' text-pinx='0.5' text-piny='0.5' text-width-delta='-18'>
+            <formatted-text>
+              <run>Differnce = 235,840</run>
+            </formatted-text>
+            <top-left>
+              <visual-coordinate class='axis'>
+                <x-coord cell-offset='0.899471'>
+                  <node-reference>
+                    <fields>
+                      <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</field>
+                    </fields>
+                    <multibucket>
+                      <bucket>&quot;Supplier_B_A_No_hammer&quot;</bucket>
+                    </multibucket>
+                  </node-reference>
+                </x-coord>
+                <y-coord axis-value='436369.44723618083'>
+                  <node-reference>
+                    <axis>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]</axis>
+                  </node-reference>
+                </y-coord>
+                <page-reference />
+              </visual-coordinate>
+            </top-left>
+            <bottom-right>
+              <visual-coordinate class='axis'>
+                <x-coord cell-offset='0.835979'>
+                  <node-reference>
+                    <fields>
+                      <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</field>
+                    </fields>
+                    <multibucket>
+                      <bucket>&quot;Supplier_B_ALL_TOOLS&quot;</bucket>
+                    </multibucket>
+                  </node-reference>
+                </x-coord>
+                <y-coord axis-value='354992.4422110552'>
+                  <node-reference>
+                    <axis>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]</axis>
+                  </node-reference>
+                </y-coord>
+                <page-reference />
+              </visual-coordinate>
+            </bottom-right>
+            <text x='0.5' y='0.5' />
+          </annotation>
+          <annotation class='point' id='2' mark-position='1' pullback='0' text-width='180'>
+            <formatted-text>
+              <run bold='true'>Difference = 43,950</run>
+            </formatted-text>
+            <point>
+              <visual-coordinate class='axis'>
+                <x-coord cell-offset='0.241636'>
+                  <node-reference>
+                    <fields>
+                      <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</field>
+                    </fields>
+                    <multibucket>
+                      <bucket>&quot;Supplier_B_A_No_hammer&quot;</bucket>
+                    </multibucket>
+                  </node-reference>
+                </x-coord>
+                <y-coord axis-value='372099.77522891562'>
+                  <node-reference>
+                    <axis>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[sum:Total_Cost:qk]</axis>
+                  </node-reference>
+                </y-coord>
+                <page-reference />
+              </visual-coordinate>
+            </point>
+            <body x='130' y='-20' />
+          </annotation>
+        </annotations>
+      </table>
+      <simple-id uuid='{5192D39B-1F13-4900-97A6-0039F42B97E4}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='51'>
+    <window class='worksheet' maximized='true' name='Sheet 2'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{7919EC26-F426-4F57-954F-AD679C4CAA10}' />
+    </window>
+    <window class='worksheet' name='Sheet 2 (2)'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1rr4uae0gm8q9d17sok3m1s8y90a].[none:Supplier:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{B413D9CE-F1ED-4FDD-AD16-237625DA12A7}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 2' width='192'>
+      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
+      GUJxsUBmNXAAAAAASUVORK5CYII=
+    </thumbnail>
+    <thumbnail height='192' name='Sheet 2 (2)' width='192'>
+      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
+    </thumbnail>
+  </thumbnails>
+</workbook>

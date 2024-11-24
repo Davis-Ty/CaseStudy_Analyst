@@ -1,0 +1,18 @@
+[
+    {
+        "Supplier": "Supplier_B_A_No_hammer",
+        "Total_Cost": 339039.70999999996
+    },
+    {
+        "Supplier": "Supplier_A_B_No_hammer",
+        "Total_Cost": 382989.6
+    },
+    {
+        "Supplier": "Supplier_A_ALL_TOOLS",
+        "Total_Cost": 447040
+    },
+    {
+        "Supplier": "Supplier_B_ALL_TOOLS",
+        "Total_Cost": 211200
+    }
+]

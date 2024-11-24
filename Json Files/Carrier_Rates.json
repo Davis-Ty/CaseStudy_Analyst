@@ -1,0 +1,58 @@
+[
+    {
+        "Carrier": "X",
+        "Cost": 2540.0,
+        "Currency": "$USA",
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Carrier": "X",
+        "Cost": 1640.0,
+        "Currency": "$USA",
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Carrier": "X",
+        "Cost": 1200.0,
+        "Currency": "$USA",
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Carrier": "X",
+        "Cost": 1200.0,
+        "Currency": "$USA",
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Carrier": "Y",
+        "Cost": 0.12,
+        "Currency": "$USA",
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Carrier": "Y",
+        "Cost": 0.07,
+        "Currency": "$USA",
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Carrier": "Y",
+        "Cost": 0.07,
+        "Currency": "$USA",
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Carrier": "Y",
+        "Cost": 0.06,
+        "Currency": "$USA",
+        "Store_Number": 2,
+        "Supplier": "B"
+    }
+]

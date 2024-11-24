@@ -1,0 +1,2828 @@
+[
+    {
+        "Order_Date": "2014-08-04",
+        "Order_Quantity": 4338,
+        "Order_Weight": 9544,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-08-04",
+        "Order_Quantity": 5006,
+        "Order_Weight": 6007,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-08-04",
+        "Order_Quantity": 3600,
+        "Order_Weight": 7920,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-08-04",
+        "Order_Quantity": 5173,
+        "Order_Weight": 6208,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-08-04",
+        "Order_Quantity": 1890,
+        "Order_Weight": 15687,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-08-04",
+        "Order_Quantity": 2536,
+        "Order_Weight": 21049,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Order_Quantity": 4598,
+        "Order_Weight": 10116,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Order_Quantity": 5463,
+        "Order_Weight": 6556,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Order_Quantity": 3234,
+        "Order_Weight": 7115,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Order_Quantity": 5048,
+        "Order_Weight": 6058,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Order_Quantity": 1738,
+        "Order_Weight": 14425,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Order_Quantity": 2016,
+        "Order_Weight": 16733,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Order_Quantity": 4268,
+        "Order_Weight": 9390,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Order_Quantity": 5342,
+        "Order_Weight": 6410,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Order_Quantity": 2623,
+        "Order_Weight": 5771,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Order_Quantity": 4908,
+        "Order_Weight": 5890,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Order_Quantity": 1782,
+        "Order_Weight": 14791,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Order_Quantity": 2377,
+        "Order_Weight": 19729,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Order_Quantity": 3453,
+        "Order_Weight": 7597,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Order_Quantity": 6115,
+        "Order_Weight": 7338,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Order_Quantity": 1902,
+        "Order_Weight": 4184,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Order_Quantity": 5904,
+        "Order_Weight": 7085,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Order_Quantity": 2503,
+        "Order_Weight": 20775,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Order_Quantity": 3457,
+        "Order_Weight": 28693,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Order_Quantity": 3530,
+        "Order_Weight": 7766,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Order_Quantity": 6097,
+        "Order_Weight": 7316,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Order_Quantity": 2567,
+        "Order_Weight": 5647,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Order_Quantity": 7325,
+        "Order_Weight": 8790,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Order_Quantity": 1946,
+        "Order_Weight": 16152,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Order_Quantity": 2027,
+        "Order_Weight": 16824,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Order_Quantity": 3288,
+        "Order_Weight": 7234,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Order_Quantity": 5099,
+        "Order_Weight": 6119,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Order_Quantity": 2056,
+        "Order_Weight": 4523,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Order_Quantity": 5978,
+        "Order_Weight": 7174,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Order_Quantity": 2045,
+        "Order_Weight": 16974,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Order_Quantity": 2174,
+        "Order_Weight": 18044,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Order_Quantity": 3999,
+        "Order_Weight": 8798,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Order_Quantity": 5497,
+        "Order_Weight": 6596,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Order_Quantity": 3295,
+        "Order_Weight": 7249,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Order_Quantity": 6486,
+        "Order_Weight": 7783,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Order_Quantity": 2295,
+        "Order_Weight": 19049,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Order_Quantity": 2849,
+        "Order_Weight": 23647,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Order_Quantity": 3862,
+        "Order_Weight": 8496,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Order_Quantity": 5087,
+        "Order_Weight": 6104,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Order_Quantity": 2569,
+        "Order_Weight": 5652,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Order_Quantity": 4550,
+        "Order_Weight": 5460,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Order_Quantity": 1915,
+        "Order_Weight": 15895,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Order_Quantity": 2276,
+        "Order_Weight": 18891,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Order_Quantity": 3258,
+        "Order_Weight": 7168,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Order_Quantity": 4838,
+        "Order_Weight": 5806,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Order_Quantity": 2623,
+        "Order_Weight": 5771,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Order_Quantity": 4230,
+        "Order_Weight": 5076,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Order_Quantity": 1900,
+        "Order_Weight": 15770,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Order_Quantity": 2554,
+        "Order_Weight": 21198,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Order_Quantity": 4228,
+        "Order_Weight": 9302,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Order_Quantity": 5342,
+        "Order_Weight": 6410,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Order_Quantity": 2897,
+        "Order_Weight": 6373,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Order_Quantity": 4895,
+        "Order_Weight": 5874,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Order_Quantity": 2038,
+        "Order_Weight": 16915,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Order_Quantity": 2161,
+        "Order_Weight": 17936,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Order_Quantity": 3530,
+        "Order_Weight": 7766,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Order_Quantity": 4968,
+        "Order_Weight": 5962,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Order_Quantity": 2868,
+        "Order_Weight": 6310,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Order_Quantity": 4414,
+        "Order_Weight": 5297,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Order_Quantity": 2050,
+        "Order_Weight": 17015,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Order_Quantity": 2179,
+        "Order_Weight": 18086,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Order_Quantity": 4227,
+        "Order_Weight": 9299,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Order_Quantity": 5523,
+        "Order_Weight": 6628,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Order_Quantity": 3205,
+        "Order_Weight": 7051,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Order_Quantity": 5832,
+        "Order_Weight": 6998,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Order_Quantity": 1890,
+        "Order_Weight": 15687,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Order_Quantity": 2538,
+        "Order_Weight": 21065,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Order_Quantity": 2990,
+        "Order_Weight": 6578,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Order_Quantity": 5490,
+        "Order_Weight": 6588,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Order_Quantity": 1470,
+        "Order_Weight": 3234,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Order_Quantity": 5076,
+        "Order_Weight": 6091,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Order_Quantity": 2086,
+        "Order_Weight": 17314,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Order_Quantity": 2833,
+        "Order_Weight": 23514,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Order_Quantity": 3493,
+        "Order_Weight": 7685,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Order_Quantity": 5618,
+        "Order_Weight": 6742,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Order_Quantity": 2842,
+        "Order_Weight": 6252,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Order_Quantity": 5293,
+        "Order_Weight": 6352,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Order_Quantity": 1966,
+        "Order_Weight": 16318,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Order_Quantity": 2353,
+        "Order_Weight": 19530,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Order_Quantity": 4838,
+        "Order_Weight": 10644,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Order_Quantity": 6438,
+        "Order_Weight": 7726,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Order_Quantity": 3750,
+        "Order_Weight": 8250,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Order_Quantity": 6325,
+        "Order_Weight": 7590,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Order_Quantity": 1875,
+        "Order_Weight": 15563,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Order_Quantity": 2515,
+        "Order_Weight": 20875,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Order_Quantity": 3560,
+        "Order_Weight": 7832,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Order_Quantity": 5746,
+        "Order_Weight": 6895,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Order_Quantity": 2293,
+        "Order_Weight": 5045,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Order_Quantity": 6842,
+        "Order_Weight": 8210,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Order_Quantity": 1798,
+        "Order_Weight": 14923,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Order_Quantity": 1806,
+        "Order_Weight": 14990,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Order_Quantity": 4329,
+        "Order_Weight": 9524,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Order_Quantity": 4950,
+        "Order_Weight": 5940,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Order_Quantity": 3295,
+        "Order_Weight": 7249,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Order_Quantity": 4361,
+        "Order_Weight": 5233,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Order_Quantity": 1927,
+        "Order_Weight": 15994,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Order_Quantity": 2000,
+        "Order_Weight": 16600,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Order_Quantity": 4937,
+        "Order_Weight": 10861,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Order_Quantity": 5084,
+        "Order_Weight": 6101,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Order_Quantity": 4132,
+        "Order_Weight": 9090,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Order_Quantity": 5987,
+        "Order_Weight": 7184,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Order_Quantity": 1914,
+        "Order_Weight": 15886,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Order_Quantity": 2278,
+        "Order_Weight": 18907,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Order_Quantity": 4361,
+        "Order_Weight": 9594,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Order_Quantity": 4650,
+        "Order_Weight": 5580,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Order_Quantity": 3325,
+        "Order_Weight": 7315,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Order_Quantity": 3986,
+        "Order_Weight": 4783,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Order_Quantity": 1786,
+        "Order_Weight": 14824,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Order_Quantity": 2386,
+        "Order_Weight": 19804,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Order_Quantity": 4569,
+        "Order_Weight": 10052,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Order_Quantity": 5874,
+        "Order_Weight": 7049,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Order_Quantity": 3508,
+        "Order_Weight": 7718,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Order_Quantity": 5610,
+        "Order_Weight": 6732,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Order_Quantity": 2056,
+        "Order_Weight": 17065,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Order_Quantity": 2191,
+        "Order_Weight": 18185,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Order_Quantity": 4301,
+        "Order_Weight": 9462,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Order_Quantity": 5962,
+        "Order_Weight": 7154,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Order_Quantity": 3558,
+        "Order_Weight": 7828,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Order_Quantity": 7093,
+        "Order_Weight": 8512,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Order_Quantity": 2118,
+        "Order_Weight": 17579,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Order_Quantity": 2582,
+        "Order_Weight": 21431,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Order_Quantity": 5106,
+        "Order_Weight": 11233,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Order_Quantity": 6522,
+        "Order_Weight": 7826,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Order_Quantity": 4294,
+        "Order_Weight": 9447,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Order_Quantity": 7873,
+        "Order_Weight": 9448,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Order_Quantity": 2102,
+        "Order_Weight": 17447,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Order_Quantity": 2855,
+        "Order_Weight": 23697,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Order_Quantity": 4702,
+        "Order_Weight": 10344,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Order_Quantity": 5550,
+        "Order_Weight": 6660,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Order_Quantity": 3319,
+        "Order_Weight": 7302,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Order_Quantity": 5863,
+        "Order_Weight": 7036,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Order_Quantity": 2330,
+        "Order_Weight": 19339,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Order_Quantity": 2898,
+        "Order_Weight": 24053,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Order_Quantity": 4031,
+        "Order_Weight": 8868,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Order_Quantity": 4210,
+        "Order_Weight": 5052,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Order_Quantity": 3024,
+        "Order_Weight": 6653,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Order_Quantity": 3410,
+        "Order_Weight": 4092,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Order_Quantity": 1754,
+        "Order_Weight": 14558,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Order_Quantity": 1742,
+        "Order_Weight": 14459,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Order_Quantity": 4338,
+        "Order_Weight": 9544,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Order_Quantity": 4227,
+        "Order_Weight": 5072,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Order_Quantity": 2688,
+        "Order_Weight": 5914,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Order_Quantity": 4862,
+        "Order_Weight": 5834,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Order_Quantity": 1514,
+        "Order_Weight": 12566,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Order_Quantity": 1973,
+        "Order_Weight": 16376,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Order_Quantity": 4495,
+        "Order_Weight": 9889,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Order_Quantity": 5337,
+        "Order_Weight": 6404,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Order_Quantity": 3448,
+        "Order_Weight": 7586,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Order_Quantity": 5568,
+        "Order_Weight": 6682,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Order_Quantity": 1742,
+        "Order_Weight": 14459,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Order_Quantity": 2311,
+        "Order_Weight": 19181,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Order_Quantity": 4174,
+        "Order_Weight": 9183,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Order_Quantity": 5324,
+        "Order_Weight": 6389,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Order_Quantity": 2843,
+        "Order_Weight": 6255,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Order_Quantity": 6268,
+        "Order_Weight": 7522,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Order_Quantity": 1971,
+        "Order_Weight": 16359,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Order_Quantity": 2065,
+        "Order_Weight": 17140,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Order_Quantity": 4882,
+        "Order_Weight": 10740,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Order_Quantity": 5559,
+        "Order_Weight": 6671,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Order_Quantity": 4081,
+        "Order_Weight": 8978,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Order_Quantity": 5892,
+        "Order_Weight": 7070,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Order_Quantity": 2174,
+        "Order_Weight": 18044,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Order_Quantity": 2669,
+        "Order_Weight": 22153,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Order_Quantity": 4099,
+        "Order_Weight": 9018,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Order_Quantity": 4954,
+        "Order_Weight": 5945,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Order_Quantity": 3390,
+        "Order_Weight": 7458,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Order_Quantity": 4390,
+        "Order_Weight": 5268,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Order_Quantity": 2338,
+        "Order_Weight": 19405,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Order_Quantity": 3206,
+        "Order_Weight": 26610,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Order_Quantity": 4059,
+        "Order_Weight": 8930,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Order_Quantity": 5290,
+        "Order_Weight": 6348,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Order_Quantity": 2438,
+        "Order_Weight": 5364,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Order_Quantity": 4835,
+        "Order_Weight": 5802,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Order_Quantity": 2070,
+        "Order_Weight": 17181,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Order_Quantity": 2514,
+        "Order_Weight": 20866,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Order_Quantity": 4212,
+        "Order_Weight": 9266,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Order_Quantity": 5202,
+        "Order_Weight": 6242,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Order_Quantity": 2588,
+        "Order_Weight": 5694,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Order_Quantity": 5406,
+        "Order_Weight": 6487,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Order_Quantity": 2281,
+        "Order_Weight": 18932,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Order_Quantity": 3125,
+        "Order_Weight": 25938,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Order_Quantity": 6055,
+        "Order_Weight": 13321,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Order_Quantity": 6192,
+        "Order_Weight": 7430,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Order_Quantity": 5147,
+        "Order_Weight": 11323,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Order_Quantity": 6004,
+        "Order_Weight": 7205,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Order_Quantity": 1816,
+        "Order_Weight": 15073,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Order_Quantity": 2126,
+        "Order_Weight": 17646,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Order_Quantity": 5042,
+        "Order_Weight": 11092,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Order_Quantity": 4854,
+        "Order_Weight": 5825,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Order_Quantity": 4232,
+        "Order_Weight": 9310,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Order_Quantity": 4936,
+        "Order_Weight": 5923,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Order_Quantity": 2028,
+        "Order_Weight": 16832,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Order_Quantity": 2742,
+        "Order_Weight": 22759,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Order_Quantity": 3806,
+        "Order_Weight": 8373,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Order_Quantity": 5686,
+        "Order_Weight": 6823,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Order_Quantity": 2819,
+        "Order_Weight": 6202,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Order_Quantity": 6756,
+        "Order_Weight": 8107,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Order_Quantity": 2323,
+        "Order_Weight": 19281,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Order_Quantity": 2892,
+        "Order_Weight": 24004,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Order_Quantity": 4470,
+        "Order_Weight": 9834,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Order_Quantity": 5517,
+        "Order_Weight": 6620,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Order_Quantity": 2809,
+        "Order_Weight": 6180,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Order_Quantity": 6551,
+        "Order_Weight": 7861,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Order_Quantity": 2174,
+        "Order_Weight": 18044,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Order_Quantity": 2965,
+        "Order_Weight": 24610,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Order_Quantity": 4799,
+        "Order_Weight": 10558,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Order_Quantity": 6414,
+        "Order_Weight": 7697,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Order_Quantity": 3712,
+        "Order_Weight": 8166,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Order_Quantity": 7698,
+        "Order_Weight": 9238,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Order_Quantity": 2167,
+        "Order_Weight": 17986,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Order_Quantity": 2957,
+        "Order_Weight": 24543,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Order_Quantity": 4366,
+        "Order_Weight": 9605,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Order_Quantity": 6667,
+        "Order_Weight": 8000,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Order_Quantity": 3318,
+        "Order_Weight": 7300,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Order_Quantity": 6652,
+        "Order_Weight": 7982,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Order_Quantity": 2102,
+        "Order_Weight": 17447,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Order_Quantity": 2856,
+        "Order_Weight": 23705,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Order_Quantity": 4765,
+        "Order_Weight": 10483,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Order_Quantity": 5806,
+        "Order_Weight": 6967,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Order_Quantity": 3689,
+        "Order_Weight": 8116,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Order_Quantity": 6898,
+        "Order_Weight": 8278,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Order_Quantity": 2072,
+        "Order_Weight": 17198,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Order_Quantity": 2813,
+        "Order_Weight": 23348,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Order_Quantity": 5134,
+        "Order_Weight": 11295,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Order_Quantity": 5773,
+        "Order_Weight": 6928,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Order_Quantity": 3406,
+        "Order_Weight": 7493,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Order_Quantity": 6162,
+        "Order_Weight": 7394,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Order_Quantity": 2019,
+        "Order_Weight": 16758,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Order_Quantity": 2435,
+        "Order_Weight": 20211,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Order_Quantity": 4802,
+        "Order_Weight": 10564,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Order_Quantity": 5461,
+        "Order_Weight": 6553,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Order_Quantity": 3714,
+        "Order_Weight": 8171,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Order_Quantity": 5770,
+        "Order_Weight": 6924,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Order_Quantity": 2422,
+        "Order_Weight": 20103,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Order_Quantity": 2740,
+        "Order_Weight": 22742,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Order_Quantity": 5394,
+        "Order_Weight": 11867,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Order_Quantity": 6538,
+        "Order_Weight": 7846,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Order_Quantity": 3944,
+        "Order_Weight": 8677,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Order_Quantity": 7169,
+        "Order_Weight": 8603,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Order_Quantity": 2442,
+        "Order_Weight": 20269,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Order_Quantity": 3071,
+        "Order_Weight": 25489,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Order_Quantity": 5205,
+        "Order_Weight": 11451,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Order_Quantity": 6630,
+        "Order_Weight": 7956,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Order_Quantity": 3778,
+        "Order_Weight": 8312,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Order_Quantity": 7998,
+        "Order_Weight": 9598,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Order_Quantity": 2201,
+        "Order_Weight": 18268,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Order_Quantity": 3006,
+        "Order_Weight": 24950,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Order_Quantity": 5253,
+        "Order_Weight": 11557,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Order_Quantity": 6050,
+        "Order_Weight": 7260,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Order_Quantity": 4415,
+        "Order_Weight": 9713,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Order_Quantity": 6536,
+        "Order_Weight": 7843,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Order_Quantity": 2289,
+        "Order_Weight": 18999,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Order_Quantity": 3138,
+        "Order_Weight": 26045,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Order_Quantity": 5281,
+        "Order_Weight": 11618,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Order_Quantity": 5825,
+        "Order_Weight": 6990,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Order_Quantity": 4453,
+        "Order_Weight": 9797,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Order_Quantity": 5519,
+        "Order_Weight": 6623,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Order_Quantity": 2298,
+        "Order_Weight": 19073,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Order_Quantity": 3149,
+        "Order_Weight": 26137,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Order_Quantity": 5168,
+        "Order_Weight": 11370,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Order_Quantity": 6444,
+        "Order_Weight": 7733,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Order_Quantity": 4044,
+        "Order_Weight": 8897,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Order_Quantity": 6326,
+        "Order_Weight": 7591,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Order_Quantity": 2516,
+        "Order_Weight": 20883,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Order_Quantity": 3476,
+        "Order_Weight": 28851,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Order_Quantity": 5038,
+        "Order_Weight": 11084,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Order_Quantity": 6755,
+        "Order_Weight": 8106,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Order_Quantity": 4232,
+        "Order_Weight": 9310,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Order_Quantity": 8161,
+        "Order_Weight": 9793,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Order_Quantity": 2060,
+        "Order_Weight": 17098,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Order_Quantity": 2197,
+        "Order_Weight": 18235,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Order_Quantity": 4650,
+        "Order_Weight": 10230,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Order_Quantity": 6790,
+        "Order_Weight": 8148,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Order_Quantity": 2982,
+        "Order_Weight": 6560,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Order_Quantity": 6792,
+        "Order_Weight": 8150,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Order_Quantity": 2490,
+        "Order_Weight": 20667,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Order_Quantity": 2848,
+        "Order_Weight": 23638,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Order_Quantity": 5914,
+        "Order_Weight": 13011,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Order_Quantity": 5831,
+        "Order_Weight": 6997,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Order_Quantity": 4112,
+        "Order_Weight": 9046,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Order_Quantity": 5532,
+        "Order_Weight": 6638,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Order_Quantity": 2181,
+        "Order_Weight": 18102,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Order_Quantity": 2683,
+        "Order_Weight": 22269,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Order_Quantity": 5835,
+        "Order_Weight": 12837,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Order_Quantity": 6447,
+        "Order_Weight": 7736,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Order_Quantity": 4945,
+        "Order_Weight": 10879,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Order_Quantity": 6325,
+        "Order_Weight": 7590,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Order_Quantity": 2506,
+        "Order_Weight": 20800,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Order_Quantity": 3464,
+        "Order_Weight": 28751,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Order_Quantity": 5542,
+        "Order_Weight": 12192,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Order_Quantity": 7062,
+        "Order_Weight": 8474,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Order_Quantity": 3776,
+        "Order_Weight": 8307,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Order_Quantity": 7860,
+        "Order_Weight": 9432,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Order_Quantity": 2254,
+        "Order_Weight": 18708,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Order_Quantity": 3084,
+        "Order_Weight": 25597,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Order_Quantity": 5355,
+        "Order_Weight": 11781,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Order_Quantity": 6326,
+        "Order_Weight": 7591,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Order_Quantity": 4522,
+        "Order_Weight": 9948,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Order_Quantity": 6182,
+        "Order_Weight": 7418,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Order_Quantity": 2242,
+        "Order_Weight": 18609,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Order_Quantity": 2768,
+        "Order_Weight": 22974,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Order_Quantity": 5038,
+        "Order_Weight": 11084,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Order_Quantity": 6156,
+        "Order_Weight": 7387,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 1,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Order_Quantity": 3924,
+        "Order_Weight": 8633,
+        "Product_Id": 1,
+        "Product_Weight": 2.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Order_Quantity": 7368,
+        "Order_Weight": 8842,
+        "Product_Id": 2,
+        "Product_Weight": 1.2,
+        "Store_Number": 2,
+        "Supplier": "A"
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Order_Quantity": 2517,
+        "Order_Weight": 20891,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 1,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Order_Quantity": 2888,
+        "Order_Weight": 23970,
+        "Product_Id": 3,
+        "Product_Weight": 8.3,
+        "Store_Number": 2,
+        "Supplier": "B"
+    },
+    {
+        "Order_Date": null,
+        "Order_Quantity": null,
+        "Order_Weight": null,
+        "Product_Id": null,
+        "Product_Weight": null,
+        "Store_Number": null,
+        "Supplier": null
+    },
+    {
+        "Order_Date": null,
+        "Order_Quantity": null,
+        "Order_Weight": null,
+        "Product_Id": null,
+        "Product_Weight": null,
+        "Store_Number": null,
+        "Supplier": null
+    }
+]

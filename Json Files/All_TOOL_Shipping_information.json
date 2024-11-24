@@ -1,0 +1,6658 @@
+[
+    {
+        "Order_Date": "2014-08-04",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 668.05,
+        "total_weight_tool": 9543.6
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 708.09,
+        "total_weight_tool": 10115.6
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 657.27,
+        "total_weight_tool": 9389.6
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 531.76,
+        "total_weight_tool": 7596.6
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 543.62,
+        "total_weight_tool": 7766
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 506.35,
+        "total_weight_tool": 7233.6
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 615.85,
+        "total_weight_tool": 8797.8
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 594.75,
+        "total_weight_tool": 8496.4
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 501.73,
+        "total_weight_tool": 7167.6
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 651.11,
+        "total_weight_tool": 9301.6
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 543.62,
+        "total_weight_tool": 7766
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 650.96,
+        "total_weight_tool": 9299.4
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 460.46,
+        "total_weight_tool": 6578
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 537.92,
+        "total_weight_tool": 7684.6
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 745.05,
+        "total_weight_tool": 10643.6
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 548.24,
+        "total_weight_tool": 7832
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 666.67,
+        "total_weight_tool": 9523.8
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 760.3,
+        "total_weight_tool": 10861.4
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 671.59,
+        "total_weight_tool": 9594.2
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 703.63,
+        "total_weight_tool": 10051.8
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 662.35,
+        "total_weight_tool": 9462.2
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 786.32,
+        "total_weight_tool": 11233.2
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 724.11,
+        "total_weight_tool": 10344.4
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 620.77,
+        "total_weight_tool": 8868.2
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 668.05,
+        "total_weight_tool": 9543.6
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 692.23,
+        "total_weight_tool": 9889
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 642.8,
+        "total_weight_tool": 9182.8
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 751.83,
+        "total_weight_tool": 10740.4
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 631.25,
+        "total_weight_tool": 9017.8
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 625.09,
+        "total_weight_tool": 8929.8
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 648.65,
+        "total_weight_tool": 9266.4
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 932.47,
+        "total_weight_tool": 13321
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 776.47,
+        "total_weight_tool": 11092.4
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 586.12,
+        "total_weight_tool": 8373.2
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 688.38,
+        "total_weight_tool": 9834
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 739.05,
+        "total_weight_tool": 10557.8
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 672.36,
+        "total_weight_tool": 9605.2
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 733.81,
+        "total_weight_tool": 10483
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 790.64,
+        "total_weight_tool": 11294.8
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 739.51,
+        "total_weight_tool": 10564.4
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 830.68,
+        "total_weight_tool": 11866.8
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 801.57,
+        "total_weight_tool": 11451
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 808.96,
+        "total_weight_tool": 11556.6
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 813.27,
+        "total_weight_tool": 11618.2
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 795.87,
+        "total_weight_tool": 11369.6
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 775.85,
+        "total_weight_tool": 11083.6
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 716.1,
+        "total_weight_tool": 10230
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 910.76,
+        "total_weight_tool": 13010.8
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 898.59,
+        "total_weight_tool": 12837
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 853.47,
+        "total_weight_tool": 12192.4
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 824.67,
+        "total_weight_tool": 11781
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 775.85,
+        "total_weight_tool": 11083.6
+    },
+    {
+        "Order_Date": "2014-08-04",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 475.2,
+        "total_weight_tool": 7920
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 426.89,
+        "total_weight_tool": 7114.8
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 346.24,
+        "total_weight_tool": 5770.6
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 251.06,
+        "total_weight_tool": 4184.4
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 338.84,
+        "total_weight_tool": 5647.4
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 271.39,
+        "total_weight_tool": 4523.2
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 434.94,
+        "total_weight_tool": 7249
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 339.11,
+        "total_weight_tool": 5651.8
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 346.24,
+        "total_weight_tool": 5770.6
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 382.4,
+        "total_weight_tool": 6373.4
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 378.58,
+        "total_weight_tool": 6309.6
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 423.06,
+        "total_weight_tool": 7051
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 194.04,
+        "total_weight_tool": 3234
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 375.14,
+        "total_weight_tool": 6252.4
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 495,
+        "total_weight_tool": 8250
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 302.68,
+        "total_weight_tool": 5044.6
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 434.94,
+        "total_weight_tool": 7249
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 545.42,
+        "total_weight_tool": 9090.4
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 438.9,
+        "total_weight_tool": 7315
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 463.06,
+        "total_weight_tool": 7717.6
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 469.66,
+        "total_weight_tool": 7827.6
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 566.81,
+        "total_weight_tool": 9446.8
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 438.11,
+        "total_weight_tool": 7301.8
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 399.17,
+        "total_weight_tool": 6652.8
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 354.82,
+        "total_weight_tool": 5913.6
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 455.14,
+        "total_weight_tool": 7585.6
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 375.28,
+        "total_weight_tool": 6254.6
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 538.69,
+        "total_weight_tool": 8978.2
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 447.48,
+        "total_weight_tool": 7458
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 321.82,
+        "total_weight_tool": 5363.6
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 341.62,
+        "total_weight_tool": 5693.6
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 679.4,
+        "total_weight_tool": 11323.4
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 558.62,
+        "total_weight_tool": 9310.4
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 372.11,
+        "total_weight_tool": 6201.8
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 370.79,
+        "total_weight_tool": 6179.8
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 489.98,
+        "total_weight_tool": 8166.4
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 437.98,
+        "total_weight_tool": 7299.6
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 486.95,
+        "total_weight_tool": 8115.8
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 449.59,
+        "total_weight_tool": 7493.2
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 490.25,
+        "total_weight_tool": 8170.8
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 520.61,
+        "total_weight_tool": 8676.8
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 498.7,
+        "total_weight_tool": 8311.6
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 582.78,
+        "total_weight_tool": 9713
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 587.8,
+        "total_weight_tool": 9796.6
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 533.81,
+        "total_weight_tool": 8896.8
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 558.62,
+        "total_weight_tool": 9310.4
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 393.62,
+        "total_weight_tool": 6560.4
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 542.78,
+        "total_weight_tool": 9046.4
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 652.74,
+        "total_weight_tool": 10879
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 498.43,
+        "total_weight_tool": 8307.2
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 596.9,
+        "total_weight_tool": 9948.4
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 517.97,
+        "total_weight_tool": 8632.8
+    },
+    {
+        "Order_Date": "2014-08-04",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1145.23,
+        "total_weight_tool": 9543.6
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1213.87,
+        "total_weight_tool": 10115.6
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1126.75,
+        "total_weight_tool": 9389.6
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 911.59,
+        "total_weight_tool": 7596.6
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 931.92,
+        "total_weight_tool": 7766
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 868.03,
+        "total_weight_tool": 7233.6
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1055.74,
+        "total_weight_tool": 8797.8
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1019.57,
+        "total_weight_tool": 8496.4
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 860.11,
+        "total_weight_tool": 7167.6
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1116.19,
+        "total_weight_tool": 9301.6
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 931.92,
+        "total_weight_tool": 7766
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1115.93,
+        "total_weight_tool": 9299.4
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 789.36,
+        "total_weight_tool": 6578
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 922.15,
+        "total_weight_tool": 7684.6
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1277.23,
+        "total_weight_tool": 10643.6
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 939.84,
+        "total_weight_tool": 7832
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1142.86,
+        "total_weight_tool": 9523.8
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1303.37,
+        "total_weight_tool": 10861.4
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1151.3,
+        "total_weight_tool": 9594.2
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1206.22,
+        "total_weight_tool": 10051.8
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1135.46,
+        "total_weight_tool": 9462.2
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1347.98,
+        "total_weight_tool": 11233.2
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1241.33,
+        "total_weight_tool": 10344.4
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1064.18,
+        "total_weight_tool": 8868.2
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1145.23,
+        "total_weight_tool": 9543.6
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1186.68,
+        "total_weight_tool": 9889
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1101.94,
+        "total_weight_tool": 9182.8
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1288.85,
+        "total_weight_tool": 10740.4
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1082.14,
+        "total_weight_tool": 9017.8
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1071.58,
+        "total_weight_tool": 8929.8
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1111.97,
+        "total_weight_tool": 9266.4
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1598.52,
+        "total_weight_tool": 13321
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1331.09,
+        "total_weight_tool": 11092.4
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1004.78,
+        "total_weight_tool": 8373.2
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1180.08,
+        "total_weight_tool": 9834
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1266.94,
+        "total_weight_tool": 10557.8
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1152.62,
+        "total_weight_tool": 9605.2
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1257.96,
+        "total_weight_tool": 10483
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1355.38,
+        "total_weight_tool": 11294.8
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1267.73,
+        "total_weight_tool": 10564.4
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1424.02,
+        "total_weight_tool": 11866.8
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1374.12,
+        "total_weight_tool": 11451
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1386.79,
+        "total_weight_tool": 11556.6
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1394.18,
+        "total_weight_tool": 11618.2
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1364.35,
+        "total_weight_tool": 11369.6
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1330.03,
+        "total_weight_tool": 11083.6
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1227.6,
+        "total_weight_tool": 10230
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1561.3,
+        "total_weight_tool": 13010.8
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1540.44,
+        "total_weight_tool": 12837
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1463.09,
+        "total_weight_tool": 12192.4
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1413.72,
+        "total_weight_tool": 11781
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Product_Id": 4,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1330.03,
+        "total_weight_tool": 11083.6
+    },
+    {
+        "Order_Date": "2014-08-04",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 554.4,
+        "total_weight_tool": 7920
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 498.04,
+        "total_weight_tool": 7114.8
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 403.94,
+        "total_weight_tool": 5770.6
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 292.91,
+        "total_weight_tool": 4184.4
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 395.32,
+        "total_weight_tool": 5647.4
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 316.62,
+        "total_weight_tool": 4523.2
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 507.43,
+        "total_weight_tool": 7249
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 395.63,
+        "total_weight_tool": 5651.8
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 403.94,
+        "total_weight_tool": 5770.6
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 446.14,
+        "total_weight_tool": 6373.4
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 441.67,
+        "total_weight_tool": 6309.6
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 493.57,
+        "total_weight_tool": 7051
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 226.38,
+        "total_weight_tool": 3234
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 437.67,
+        "total_weight_tool": 6252.4
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 577.5,
+        "total_weight_tool": 8250
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 353.12,
+        "total_weight_tool": 5044.6
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 507.43,
+        "total_weight_tool": 7249
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 636.33,
+        "total_weight_tool": 9090.4
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 512.05,
+        "total_weight_tool": 7315
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 540.23,
+        "total_weight_tool": 7717.6
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 547.93,
+        "total_weight_tool": 7827.6
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 661.28,
+        "total_weight_tool": 9446.8
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 511.13,
+        "total_weight_tool": 7301.8
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 465.7,
+        "total_weight_tool": 6652.8
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 413.95,
+        "total_weight_tool": 5913.6
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 530.99,
+        "total_weight_tool": 7585.6
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 437.82,
+        "total_weight_tool": 6254.6
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 628.47,
+        "total_weight_tool": 8978.2
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 522.06,
+        "total_weight_tool": 7458
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 375.45,
+        "total_weight_tool": 5363.6
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 398.55,
+        "total_weight_tool": 5693.6
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 792.64,
+        "total_weight_tool": 11323.4
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 651.73,
+        "total_weight_tool": 9310.4
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 434.13,
+        "total_weight_tool": 6201.8
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 432.59,
+        "total_weight_tool": 6179.8
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 571.65,
+        "total_weight_tool": 8166.4
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 510.97,
+        "total_weight_tool": 7299.6
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 568.11,
+        "total_weight_tool": 8115.8
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 524.52,
+        "total_weight_tool": 7493.2
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 571.96,
+        "total_weight_tool": 8170.8
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 607.38,
+        "total_weight_tool": 8676.8
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 581.81,
+        "total_weight_tool": 8311.6
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 679.91,
+        "total_weight_tool": 9713
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 685.76,
+        "total_weight_tool": 9796.6
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 622.78,
+        "total_weight_tool": 8896.8
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 651.73,
+        "total_weight_tool": 9310.4
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 459.23,
+        "total_weight_tool": 6560.4
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 633.25,
+        "total_weight_tool": 9046.4
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 761.53,
+        "total_weight_tool": 10879
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 581.5,
+        "total_weight_tool": 8307.2
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 696.39,
+        "total_weight_tool": 9948.4
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Product_Id": 4,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 604.3,
+        "total_weight_tool": 8632.8
+    },
+    {
+        "Order_Date": "2014-08-04",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 734.86,
+        "total_weight_tool": 10497.960000000001
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 778.9,
+        "total_weight_tool": 11127.160000000002
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 723,
+        "total_weight_tool": 10328.560000000001
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 584.94,
+        "total_weight_tool": 8356.26
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 597.98,
+        "total_weight_tool": 8542.6
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 556.99,
+        "total_weight_tool": 7956.960000000001
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 677.43,
+        "total_weight_tool": 9677.58
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 654.22,
+        "total_weight_tool": 9346.04
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 551.91,
+        "total_weight_tool": 7884.360000000001
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 716.22,
+        "total_weight_tool": 10231.760000000002
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 597.98,
+        "total_weight_tool": 8542.6
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 716.05,
+        "total_weight_tool": 10229.34
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 506.51,
+        "total_weight_tool": 7235.8
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 591.71,
+        "total_weight_tool": 8453.060000000001
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 819.56,
+        "total_weight_tool": 11707.960000000001
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 603.06,
+        "total_weight_tool": 8615.2
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 733.33,
+        "total_weight_tool": 10476.18
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 836.33,
+        "total_weight_tool": 11947.54
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 738.75,
+        "total_weight_tool": 10553.62
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 773.99,
+        "total_weight_tool": 11056.98
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 728.59,
+        "total_weight_tool": 10408.420000000002
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 864.96,
+        "total_weight_tool": 12356.520000000002
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 796.52,
+        "total_weight_tool": 11378.84
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 682.85,
+        "total_weight_tool": 9755.020000000002
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 734.86,
+        "total_weight_tool": 10497.960000000001
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 761.45,
+        "total_weight_tool": 10877.900000000001
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 707.08,
+        "total_weight_tool": 10101.08
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 827.01,
+        "total_weight_tool": 11814.44
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 694.37,
+        "total_weight_tool": 9919.58
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 687.59,
+        "total_weight_tool": 9822.78
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 713.51,
+        "total_weight_tool": 10193.04
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1025.72,
+        "total_weight_tool": 14653.1
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 854.11,
+        "total_weight_tool": 12201.640000000001
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 644.74,
+        "total_weight_tool": 9210.520000000002
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 757.22,
+        "total_weight_tool": 10817.400000000001
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 812.95,
+        "total_weight_tool": 11613.58
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 739.6,
+        "total_weight_tool": 10565.720000000001
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 807.19,
+        "total_weight_tool": 11531.300000000001
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 869.7,
+        "total_weight_tool": 12424.28
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 813.46,
+        "total_weight_tool": 11620.84
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 913.74,
+        "total_weight_tool": 13053.48
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 881.73,
+        "total_weight_tool": 12596.1
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 889.86,
+        "total_weight_tool": 12712.260000000002
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 894.6,
+        "total_weight_tool": 12780.020000000002
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 875.46,
+        "total_weight_tool": 12506.560000000001
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 853.44,
+        "total_weight_tool": 12191.960000000001
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 787.71,
+        "total_weight_tool": 11253
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1001.83,
+        "total_weight_tool": 14311.880000000001
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 988.45,
+        "total_weight_tool": 14120.7
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 938.81,
+        "total_weight_tool": 13411.640000000001
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 907.14,
+        "total_weight_tool": 12959.1
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 853.44,
+        "total_weight_tool": 12191.960000000001
+    },
+    {
+        "Order_Date": "2014-08-04",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 522.72,
+        "total_weight_tool": 8712
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 469.58,
+        "total_weight_tool": 7826.280000000001
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 380.86,
+        "total_weight_tool": 6347.660000000001
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 276.17,
+        "total_weight_tool": 4602.84
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 372.73,
+        "total_weight_tool": 6212.14
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 298.53,
+        "total_weight_tool": 4975.52
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 478.43,
+        "total_weight_tool": 7973.9000000000005
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 373.02,
+        "total_weight_tool": 6216.9800000000005
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 380.86,
+        "total_weight_tool": 6347.660000000001
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 420.64,
+        "total_weight_tool": 7010.74
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 416.43,
+        "total_weight_tool": 6940.560000000001
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 465.37,
+        "total_weight_tool": 7756.1
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 213.44,
+        "total_weight_tool": 3557.4
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 412.66,
+        "total_weight_tool": 6877.64
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 544.5,
+        "total_weight_tool": 9075
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 332.94,
+        "total_weight_tool": 5549.06
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 478.43,
+        "total_weight_tool": 7973.9000000000005
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 599.97,
+        "total_weight_tool": 9999.44
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 482.79,
+        "total_weight_tool": 8046.500000000001
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 509.36,
+        "total_weight_tool": 8489.36
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 516.62,
+        "total_weight_tool": 8610.36
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 623.49,
+        "total_weight_tool": 10391.48
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 481.92,
+        "total_weight_tool": 8031.9800000000005
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 439.08,
+        "total_weight_tool": 7318.080000000001
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 390.3,
+        "total_weight_tool": 6504.960000000001
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 500.65,
+        "total_weight_tool": 8344.160000000002
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 412.8,
+        "total_weight_tool": 6880.060000000001
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 592.56,
+        "total_weight_tool": 9876.020000000002
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 492.23,
+        "total_weight_tool": 8203.800000000001
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 354,
+        "total_weight_tool": 5899.960000000001
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 375.78,
+        "total_weight_tool": 6262.960000000001
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 747.34,
+        "total_weight_tool": 12455.74
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 614.49,
+        "total_weight_tool": 10241.44
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 409.32,
+        "total_weight_tool": 6821.9800000000005
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 407.87,
+        "total_weight_tool": 6797.780000000001
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 538.98,
+        "total_weight_tool": 8983.04
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 481.77,
+        "total_weight_tool": 8029.560000000001
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 535.64,
+        "total_weight_tool": 8927.380000000001
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 494.55,
+        "total_weight_tool": 8242.52
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 539.27,
+        "total_weight_tool": 8987.880000000001
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 572.67,
+        "total_weight_tool": 9544.48
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 548.57,
+        "total_weight_tool": 9142.760000000002
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 641.06,
+        "total_weight_tool": 10684.300000000001
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 646.58,
+        "total_weight_tool": 10776.260000000002
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 587.19,
+        "total_weight_tool": 9786.48
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 614.49,
+        "total_weight_tool": 10241.44
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 432.99,
+        "total_weight_tool": 7216.4400000000005
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 597.06,
+        "total_weight_tool": 9951.04
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 718.01,
+        "total_weight_tool": 11966.900000000001
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 548.28,
+        "total_weight_tool": 9137.920000000002
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 656.59,
+        "total_weight_tool": 10943.24
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 569.76,
+        "total_weight_tool": 9496.08
+    },
+    {
+        "Order_Date": "2014-08-04",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1259.76,
+        "total_weight_tool": 10497.960000000001
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1335.26,
+        "total_weight_tool": 11127.160000000002
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1239.43,
+        "total_weight_tool": 10328.560000000001
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1002.75,
+        "total_weight_tool": 8356.26
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1025.11,
+        "total_weight_tool": 8542.6
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 954.84,
+        "total_weight_tool": 7956.960000000001
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1161.31,
+        "total_weight_tool": 9677.58
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1121.52,
+        "total_weight_tool": 9346.04
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 946.12,
+        "total_weight_tool": 7884.360000000001
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1227.81,
+        "total_weight_tool": 10231.760000000002
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1025.11,
+        "total_weight_tool": 8542.6
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1227.52,
+        "total_weight_tool": 10229.34
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 868.3,
+        "total_weight_tool": 7235.8
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1014.37,
+        "total_weight_tool": 8453.060000000001
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1404.96,
+        "total_weight_tool": 11707.960000000001
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1033.82,
+        "total_weight_tool": 8615.2
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1257.14,
+        "total_weight_tool": 10476.18
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1433.7,
+        "total_weight_tool": 11947.54
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1266.43,
+        "total_weight_tool": 10553.62
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1326.84,
+        "total_weight_tool": 11056.98
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1249.01,
+        "total_weight_tool": 10408.420000000002
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1482.78,
+        "total_weight_tool": 12356.520000000002
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1365.46,
+        "total_weight_tool": 11378.84
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1170.6,
+        "total_weight_tool": 9755.020000000002
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1259.76,
+        "total_weight_tool": 10497.960000000001
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1305.35,
+        "total_weight_tool": 10877.900000000001
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1212.13,
+        "total_weight_tool": 10101.08
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1417.73,
+        "total_weight_tool": 11814.44
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1190.35,
+        "total_weight_tool": 9919.58
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1178.73,
+        "total_weight_tool": 9822.78
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1223.16,
+        "total_weight_tool": 10193.04
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1758.37,
+        "total_weight_tool": 14653.1
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1464.2,
+        "total_weight_tool": 12201.640000000001
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1105.26,
+        "total_weight_tool": 9210.520000000002
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1298.09,
+        "total_weight_tool": 10817.400000000001
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1393.63,
+        "total_weight_tool": 11613.58
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1267.89,
+        "total_weight_tool": 10565.720000000001
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1383.76,
+        "total_weight_tool": 11531.300000000001
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1490.91,
+        "total_weight_tool": 12424.28
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1394.5,
+        "total_weight_tool": 11620.84
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1566.42,
+        "total_weight_tool": 13053.48
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1511.53,
+        "total_weight_tool": 12596.1
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1525.47,
+        "total_weight_tool": 12712.260000000002
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1533.6,
+        "total_weight_tool": 12780.020000000002
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1500.79,
+        "total_weight_tool": 12506.560000000001
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1463.04,
+        "total_weight_tool": 12191.960000000001
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1350.36,
+        "total_weight_tool": 11253
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1717.43,
+        "total_weight_tool": 14311.880000000001
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1694.48,
+        "total_weight_tool": 14120.7
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1609.4,
+        "total_weight_tool": 13411.640000000001
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1555.09,
+        "total_weight_tool": 12959.1
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Product_Id": 1,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1463.04,
+        "total_weight_tool": 12191.960000000001
+    },
+    {
+        "Order_Date": "2014-08-04",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 609.84,
+        "total_weight_tool": 8712
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 547.84,
+        "total_weight_tool": 7826.280000000001
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 444.34,
+        "total_weight_tool": 6347.660000000001
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 322.2,
+        "total_weight_tool": 4602.84
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 434.85,
+        "total_weight_tool": 6212.14
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 348.29,
+        "total_weight_tool": 4975.52
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 558.17,
+        "total_weight_tool": 7973.9000000000005
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 435.19,
+        "total_weight_tool": 6216.9800000000005
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 444.34,
+        "total_weight_tool": 6347.660000000001
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 490.75,
+        "total_weight_tool": 7010.74
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 485.84,
+        "total_weight_tool": 6940.560000000001
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 542.93,
+        "total_weight_tool": 7756.1
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 249.02,
+        "total_weight_tool": 3557.4
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 481.43,
+        "total_weight_tool": 6877.64
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 635.25,
+        "total_weight_tool": 9075
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 388.43,
+        "total_weight_tool": 5549.06
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 558.17,
+        "total_weight_tool": 7973.9000000000005
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 699.96,
+        "total_weight_tool": 9999.44
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 563.26,
+        "total_weight_tool": 8046.500000000001
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 594.26,
+        "total_weight_tool": 8489.36
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 602.73,
+        "total_weight_tool": 8610.36
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 727.4,
+        "total_weight_tool": 10391.48
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 562.24,
+        "total_weight_tool": 8031.9800000000005
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 512.27,
+        "total_weight_tool": 7318.080000000001
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 455.35,
+        "total_weight_tool": 6504.960000000001
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 584.09,
+        "total_weight_tool": 8344.160000000002
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 481.6,
+        "total_weight_tool": 6880.060000000001
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 691.32,
+        "total_weight_tool": 9876.020000000002
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 574.27,
+        "total_weight_tool": 8203.800000000001
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 413,
+        "total_weight_tool": 5899.960000000001
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 438.41,
+        "total_weight_tool": 6262.960000000001
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 871.9,
+        "total_weight_tool": 12455.74
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 716.9,
+        "total_weight_tool": 10241.44
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 477.54,
+        "total_weight_tool": 6821.9800000000005
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 475.84,
+        "total_weight_tool": 6797.780000000001
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 628.81,
+        "total_weight_tool": 8983.04
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 562.07,
+        "total_weight_tool": 8029.560000000001
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 624.92,
+        "total_weight_tool": 8927.380000000001
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 576.98,
+        "total_weight_tool": 8242.52
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 629.15,
+        "total_weight_tool": 8987.880000000001
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 668.11,
+        "total_weight_tool": 9544.48
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 639.99,
+        "total_weight_tool": 9142.760000000002
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 747.9,
+        "total_weight_tool": 10684.300000000001
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 754.34,
+        "total_weight_tool": 10776.260000000002
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 685.05,
+        "total_weight_tool": 9786.48
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 716.9,
+        "total_weight_tool": 10241.44
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 505.15,
+        "total_weight_tool": 7216.4400000000005
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 696.57,
+        "total_weight_tool": 9951.04
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 837.68,
+        "total_weight_tool": 11966.900000000001
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 639.65,
+        "total_weight_tool": 9137.920000000002
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 766.03,
+        "total_weight_tool": 10943.24
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Product_Id": 1,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 664.73,
+        "total_weight_tool": 9496.08
+    },
+    {
+        "Order_Date": "2014-08-04",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 462.55,
+        "total_weight_tool": 6607.92
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 504.78,
+        "total_weight_tool": 7211.16
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 493.6,
+        "total_weight_tool": 7051.44
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 565.03,
+        "total_weight_tool": 8071.799999999999
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 563.36,
+        "total_weight_tool": 8048.039999999999
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 471.15,
+        "total_weight_tool": 6730.679999999999
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 507.92,
+        "total_weight_tool": 7256.04
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 470.04,
+        "total_weight_tool": 6714.839999999999
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 447.03,
+        "total_weight_tool": 6386.16
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 493.6,
+        "total_weight_tool": 7051.44
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 459.04,
+        "total_weight_tool": 6557.76
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 510.33,
+        "total_weight_tool": 7290.36
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 507.28,
+        "total_weight_tool": 7246.8
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 519.1,
+        "total_weight_tool": 7415.76
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 594.87,
+        "total_weight_tool": 8498.16
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 530.93,
+        "total_weight_tool": 7584.72
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 457.38,
+        "total_weight_tool": 6534
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 469.76,
+        "total_weight_tool": 6710.879999999999
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 429.66,
+        "total_weight_tool": 6138
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 542.76,
+        "total_weight_tool": 7753.679999999999
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 550.89,
+        "total_weight_tool": 7869.839999999999
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 602.63,
+        "total_weight_tool": 8609.039999999999
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 512.82,
+        "total_weight_tool": 7326
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 389,
+        "total_weight_tool": 5557.2
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 390.57,
+        "total_weight_tool": 5579.639999999999
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 493.14,
+        "total_weight_tool": 7044.839999999999
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 491.94,
+        "total_weight_tool": 7027.679999999999
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 513.65,
+        "total_weight_tool": 7337.879999999999
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 457.75,
+        "total_weight_tool": 6539.28
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 488.8,
+        "total_weight_tool": 6982.8
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 480.66,
+        "total_weight_tool": 6866.639999999999
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 572.14,
+        "total_weight_tool": 8173.44
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 448.51,
+        "total_weight_tool": 6407.28
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 525.39,
+        "total_weight_tool": 7505.52
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 509.77,
+        "total_weight_tool": 7282.44
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 592.65,
+        "total_weight_tool": 8466.48
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 616.03,
+        "total_weight_tool": 8800.439999999999
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 536.47,
+        "total_weight_tool": 7663.92
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 533.43,
+        "total_weight_tool": 7620.36
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 504.6,
+        "total_weight_tool": 7208.52
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 604.11,
+        "total_weight_tool": 8630.16
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 612.61,
+        "total_weight_tool": 8751.6
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 559.02,
+        "total_weight_tool": 7986
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 538.23,
+        "total_weight_tool": 7689
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 595.43,
+        "total_weight_tool": 8506.08
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 624.16,
+        "total_weight_tool": 8916.6
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 627.4,
+        "total_weight_tool": 8962.8
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 538.78,
+        "total_weight_tool": 7696.92
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 595.7,
+        "total_weight_tool": 8510.039999999999
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 652.53,
+        "total_weight_tool": 9321.84
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 584.52,
+        "total_weight_tool": 8350.32
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 568.81,
+        "total_weight_tool": 8125.92
+    },
+    {
+        "Order_Date": "2014-08-04",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 409.7,
+        "total_weight_tool": 6828.36
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 399.8,
+        "total_weight_tool": 6663.36
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 388.71,
+        "total_weight_tool": 6478.56
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 467.6,
+        "total_weight_tool": 7793.279999999999
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 580.14,
+        "total_weight_tool": 9669
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 473.46,
+        "total_weight_tool": 7890.96
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 513.69,
+        "total_weight_tool": 8561.52
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 360.36,
+        "total_weight_tool": 6006
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 335.02,
+        "total_weight_tool": 5583.5999999999995
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 387.68,
+        "total_weight_tool": 6461.4
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 349.59,
+        "total_weight_tool": 5826.48
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 461.89,
+        "total_weight_tool": 7698.24
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 402.02,
+        "total_weight_tool": 6700.320000000001
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 419.21,
+        "total_weight_tool": 6986.76
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 500.94,
+        "total_weight_tool": 8349
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 541.89,
+        "total_weight_tool": 9031.439999999999
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 345.39,
+        "total_weight_tool": 5756.52
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 474.17,
+        "total_weight_tool": 7902.839999999999
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 315.69,
+        "total_weight_tool": 5261.52
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 444.31,
+        "total_weight_tool": 7405.2
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 561.77,
+        "total_weight_tool": 9362.76
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 623.54,
+        "total_weight_tool": 10392.359999999999
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 464.35,
+        "total_weight_tool": 7739.16
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 270.07,
+        "total_weight_tool": 4501.2
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 385.07,
+        "total_weight_tool": 6417.839999999999
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 440.99,
+        "total_weight_tool": 7349.76
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 496.43,
+        "total_weight_tool": 8273.76
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 466.65,
+        "total_weight_tool": 7777.44
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 347.69,
+        "total_weight_tool": 5794.8
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 382.93,
+        "total_weight_tool": 6382.2
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 428.16,
+        "total_weight_tool": 7135.92
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 475.52,
+        "total_weight_tool": 7925.279999999999
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 390.93,
+        "total_weight_tool": 6515.52
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 535.08,
+        "total_weight_tool": 8917.92
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 518.84,
+        "total_weight_tool": 8647.32
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 609.68,
+        "total_weight_tool": 10161.359999999999
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 526.84,
+        "total_weight_tool": 8780.64
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 546.32,
+        "total_weight_tool": 9105.36
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 488.03,
+        "total_weight_tool": 8133.839999999999
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 456.98,
+        "total_weight_tool": 7616.4
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 567.78,
+        "total_weight_tool": 9463.08
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 633.44,
+        "total_weight_tool": 10557.359999999999
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 517.65,
+        "total_weight_tool": 8627.52
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 437.1,
+        "total_weight_tool": 7285.079999999999
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 501.02,
+        "total_weight_tool": 8350.32
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 646.35,
+        "total_weight_tool": 10772.52
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 537.93,
+        "total_weight_tool": 8965.439999999999
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 438.13,
+        "total_weight_tool": 7302.24
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 500.94,
+        "total_weight_tool": 8349
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 622.51,
+        "total_weight_tool": 10375.199999999999
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 489.61,
+        "total_weight_tool": 8160.24
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 583.55,
+        "total_weight_tool": 9725.76
+    },
+    {
+        "Order_Date": "2014-08-04",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 792.95,
+        "total_weight_tool": 6607.92
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 865.34,
+        "total_weight_tool": 7211.16
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 846.17,
+        "total_weight_tool": 7051.44
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 968.62,
+        "total_weight_tool": 8071.799999999999
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 965.76,
+        "total_weight_tool": 8048.039999999999
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 807.68,
+        "total_weight_tool": 6730.679999999999
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 870.72,
+        "total_weight_tool": 7256.04
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 805.78,
+        "total_weight_tool": 6714.839999999999
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 766.34,
+        "total_weight_tool": 6386.16
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 846.17,
+        "total_weight_tool": 7051.44
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 786.93,
+        "total_weight_tool": 6557.76
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 874.84,
+        "total_weight_tool": 7290.36
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 869.62,
+        "total_weight_tool": 7246.8
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 889.89,
+        "total_weight_tool": 7415.76
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1019.78,
+        "total_weight_tool": 8498.16
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 910.17,
+        "total_weight_tool": 7584.72
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 784.08,
+        "total_weight_tool": 6534
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 805.31,
+        "total_weight_tool": 6710.879999999999
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 736.56,
+        "total_weight_tool": 6138
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 930.44,
+        "total_weight_tool": 7753.679999999999
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 944.38,
+        "total_weight_tool": 7869.839999999999
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1033.08,
+        "total_weight_tool": 8609.039999999999
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 879.12,
+        "total_weight_tool": 7326
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 666.86,
+        "total_weight_tool": 5557.2
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 669.56,
+        "total_weight_tool": 5579.639999999999
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 845.38,
+        "total_weight_tool": 7044.839999999999
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 843.32,
+        "total_weight_tool": 7027.679999999999
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 880.55,
+        "total_weight_tool": 7337.879999999999
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 784.71,
+        "total_weight_tool": 6539.28
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 837.94,
+        "total_weight_tool": 6982.8
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 824,
+        "total_weight_tool": 6866.639999999999
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 980.81,
+        "total_weight_tool": 8173.44
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 768.87,
+        "total_weight_tool": 6407.28
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 900.66,
+        "total_weight_tool": 7505.52
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 873.89,
+        "total_weight_tool": 7282.44
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1015.98,
+        "total_weight_tool": 8466.48
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1056.05,
+        "total_weight_tool": 8800.439999999999
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 919.67,
+        "total_weight_tool": 7663.92
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 914.44,
+        "total_weight_tool": 7620.36
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 865.02,
+        "total_weight_tool": 7208.52
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1035.62,
+        "total_weight_tool": 8630.16
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1050.19,
+        "total_weight_tool": 8751.6
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 958.32,
+        "total_weight_tool": 7986
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 922.68,
+        "total_weight_tool": 7689
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1020.73,
+        "total_weight_tool": 8506.08
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1069.99,
+        "total_weight_tool": 8916.6
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1075.54,
+        "total_weight_tool": 8962.8
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 923.63,
+        "total_weight_tool": 7696.92
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1021.2,
+        "total_weight_tool": 8510.039999999999
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1118.62,
+        "total_weight_tool": 9321.84
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1002.04,
+        "total_weight_tool": 8350.32
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Product_Id": 2,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 975.11,
+        "total_weight_tool": 8125.92
+    },
+    {
+        "Order_Date": "2014-08-04",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 477.99,
+        "total_weight_tool": 6828.36
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 466.44,
+        "total_weight_tool": 6663.36
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 453.5,
+        "total_weight_tool": 6478.56
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 545.53,
+        "total_weight_tool": 7793.279999999999
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 676.83,
+        "total_weight_tool": 9669
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 552.37,
+        "total_weight_tool": 7890.96
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 599.31,
+        "total_weight_tool": 8561.52
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 420.42,
+        "total_weight_tool": 6006
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 390.85,
+        "total_weight_tool": 5583.5999999999995
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 452.3,
+        "total_weight_tool": 6461.4
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 407.85,
+        "total_weight_tool": 5826.48
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 538.88,
+        "total_weight_tool": 7698.24
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 469.02,
+        "total_weight_tool": 6700.320000000001
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 489.07,
+        "total_weight_tool": 6986.76
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 584.43,
+        "total_weight_tool": 8349
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 632.2,
+        "total_weight_tool": 9031.439999999999
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 402.96,
+        "total_weight_tool": 5756.52
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 553.2,
+        "total_weight_tool": 7902.839999999999
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 368.31,
+        "total_weight_tool": 5261.52
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 518.36,
+        "total_weight_tool": 7405.2
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 655.39,
+        "total_weight_tool": 9362.76
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 727.47,
+        "total_weight_tool": 10392.359999999999
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 541.74,
+        "total_weight_tool": 7739.16
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 315.08,
+        "total_weight_tool": 4501.2
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 449.25,
+        "total_weight_tool": 6417.839999999999
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 514.48,
+        "total_weight_tool": 7349.76
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 579.16,
+        "total_weight_tool": 8273.76
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 544.42,
+        "total_weight_tool": 7777.44
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 405.64,
+        "total_weight_tool": 5794.8
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 446.75,
+        "total_weight_tool": 6382.2
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 499.51,
+        "total_weight_tool": 7135.92
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 554.77,
+        "total_weight_tool": 7925.279999999999
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 456.09,
+        "total_weight_tool": 6515.52
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 624.25,
+        "total_weight_tool": 8917.92
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 605.31,
+        "total_weight_tool": 8647.32
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 711.3,
+        "total_weight_tool": 10161.359999999999
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 614.64,
+        "total_weight_tool": 8780.64
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 637.38,
+        "total_weight_tool": 9105.36
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 569.37,
+        "total_weight_tool": 8133.839999999999
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 533.15,
+        "total_weight_tool": 7616.4
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 662.42,
+        "total_weight_tool": 9463.08
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 739.02,
+        "total_weight_tool": 10557.359999999999
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 603.93,
+        "total_weight_tool": 8627.52
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 509.96,
+        "total_weight_tool": 7285.079999999999
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 584.52,
+        "total_weight_tool": 8350.32
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 754.08,
+        "total_weight_tool": 10772.52
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 627.58,
+        "total_weight_tool": 8965.439999999999
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 511.16,
+        "total_weight_tool": 7302.24
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 584.43,
+        "total_weight_tool": 8349
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 726.26,
+        "total_weight_tool": 10375.199999999999
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 571.22,
+        "total_weight_tool": 8160.24
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Product_Id": 2,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 680.8,
+        "total_weight_tool": 9725.76
+    },
+    {
+        "Order_Date": "2014-08-04",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 17255.7
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1110.76,
+        "total_weight_tool": 15867.94
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1138.88,
+        "total_weight_tool": 16269.660000000002
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 22852.390000000003
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 17766.98
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 18670.850000000002
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 20953.350000000002
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 17483.95
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 17347
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 18606.940000000002
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 18716.5
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 17255.7
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 19045.18
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 17949.58
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1198.31,
+        "total_weight_tool": 17118.75
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1149.1,
+        "total_weight_tool": 16415.74
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 17593.51
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 17474.820000000003
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1141.43,
+        "total_weight_tool": 16306.18
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 18771.280000000002
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 19337.340000000004
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 19191.26
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 21272.9
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1120.98,
+        "total_weight_tool": 16014.020000000002
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 967.6,
+        "total_weight_tool": 13822.820000000002
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1113.31,
+        "total_weight_tool": 15904.460000000001
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 17995.23
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 19848.620000000003
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 21345.940000000002
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 18899.100000000002
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 20825.530000000002
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1160.61,
+        "total_weight_tool": 16580.08
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 18515.640000000003
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 21208.99
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 19848.620000000003
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 19784.71
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 19191.26
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 18917.36
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 18433.47
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 22112.86
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 22295.46
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 20095.13
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 20898.570000000003
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 20980.74
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 22971.08
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 18807.800000000003
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 22733.7
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 19912.530000000002
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 22879.780000000002
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 20579.020000000004
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 20469.46
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 22980.21
+    },
+    {
+        "Order_Date": "2014-08-04",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 23153.68
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1104.36,
+        "total_weight_tool": 18406.08
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 21702.010000000002
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 31562.41
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1110.39,
+        "total_weight_tool": 18506.51
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1190.92,
+        "total_weight_tool": 19848.620000000003
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 26011.370000000003
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 20779.88
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 23318.020000000004
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1183.8,
+        "total_weight_tool": 19729.93
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1193.66,
+        "total_weight_tool": 19894.270000000004
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 23171.940000000002
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 25865.290000000005
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 21482.890000000003
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 22961.95
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 989.33,
+        "total_weight_tool": 16488.780000000002
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1095.6,
+        "total_weight_tool": 18260
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 20798.140000000003
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 21784.18
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 20003.83
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 23573.66
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 26066.15
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 26458.740000000005
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 954.27,
+        "total_weight_tool": 15904.460000000001
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1080.81,
+        "total_weight_tool": 18013.49
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 21099.43
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1131.21,
+        "total_weight_tool": 18853.45
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 24367.97
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 29270.780000000002
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 22952.820000000003
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 28531.250000000004
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1164.62,
+        "total_weight_tool": 19410.38
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 25034.46
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 26403.96
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 27070.45
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 26997.41
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 26075.280000000002
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 25682.690000000002
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 22231.550000000003
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 25016.2
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 28038.230000000003
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 27444.780000000002
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 28649.940000000002
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 28750.370000000003
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 31735.88
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 20058.61
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 26002.240000000005
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 24495.790000000005
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 31626.320000000003
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 28156.920000000002
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 25271.840000000004
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "B",
+        "order_cost": 1200,
+        "total_weight_tool": 26367.440000000002
+    },
+    {
+        "Order_Date": "2014-08-04",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2070.68,
+        "total_weight_tool": 17255.7
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1904.15,
+        "total_weight_tool": 15867.94
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1952.36,
+        "total_weight_tool": 16269.660000000002
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2540,
+        "total_weight_tool": 22852.390000000003
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2132.04,
+        "total_weight_tool": 17766.98
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2240.5,
+        "total_weight_tool": 18670.850000000002
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2514.4,
+        "total_weight_tool": 20953.350000000002
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2098.07,
+        "total_weight_tool": 17483.95
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2081.64,
+        "total_weight_tool": 17347
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2232.83,
+        "total_weight_tool": 18606.940000000002
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2245.98,
+        "total_weight_tool": 18716.5
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2070.68,
+        "total_weight_tool": 17255.7
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2285.42,
+        "total_weight_tool": 19045.18
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2153.95,
+        "total_weight_tool": 17949.58
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2054.25,
+        "total_weight_tool": 17118.75
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1969.89,
+        "total_weight_tool": 16415.74
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2111.22,
+        "total_weight_tool": 17593.51
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2096.98,
+        "total_weight_tool": 17474.820000000003
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1956.74,
+        "total_weight_tool": 16306.18
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2252.55,
+        "total_weight_tool": 18771.280000000002
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2320.48,
+        "total_weight_tool": 19337.340000000004
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2302.95,
+        "total_weight_tool": 19191.26
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2540,
+        "total_weight_tool": 21272.9
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1921.68,
+        "total_weight_tool": 16014.020000000002
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1658.74,
+        "total_weight_tool": 13822.820000000002
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1908.54,
+        "total_weight_tool": 15904.460000000001
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2159.43,
+        "total_weight_tool": 17995.23
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2381.83,
+        "total_weight_tool": 19848.620000000003
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2540,
+        "total_weight_tool": 21345.940000000002
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2267.89,
+        "total_weight_tool": 18899.100000000002
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2499.06,
+        "total_weight_tool": 20825.530000000002
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 1989.61,
+        "total_weight_tool": 16580.08
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2221.88,
+        "total_weight_tool": 18515.640000000003
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2540,
+        "total_weight_tool": 21208.99
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2381.83,
+        "total_weight_tool": 19848.620000000003
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2374.17,
+        "total_weight_tool": 19784.71
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2302.95,
+        "total_weight_tool": 19191.26
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2270.08,
+        "total_weight_tool": 18917.36
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2212.02,
+        "total_weight_tool": 18433.47
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2540,
+        "total_weight_tool": 22112.86
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2540,
+        "total_weight_tool": 22295.46
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2411.42,
+        "total_weight_tool": 20095.13
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2507.83,
+        "total_weight_tool": 20898.570000000003
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2517.69,
+        "total_weight_tool": 20980.74
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2540,
+        "total_weight_tool": 22971.08
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2256.94,
+        "total_weight_tool": 18807.800000000003
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2540,
+        "total_weight_tool": 22733.7
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2389.5,
+        "total_weight_tool": 19912.530000000002
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2540,
+        "total_weight_tool": 22879.780000000002
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2469.48,
+        "total_weight_tool": 20579.020000000004
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2456.34,
+        "total_weight_tool": 20469.46
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Product_Id": 3,
+        "Store_Number": 1,
+        "Supplier": "A",
+        "order_cost": 2540,
+        "total_weight_tool": 22980.21
+    },
+    {
+        "Order_Date": "2014-08-04",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1620.76,
+        "total_weight_tool": 23153.68
+    },
+    {
+        "Order_Date": "2014-08-11",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1288.43,
+        "total_weight_tool": 18406.08
+    },
+    {
+        "Order_Date": "2014-08-18",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1519.14,
+        "total_weight_tool": 21702.010000000002
+    },
+    {
+        "Order_Date": "2014-08-25",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 31562.41
+    },
+    {
+        "Order_Date": "2014-09-01",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1295.46,
+        "total_weight_tool": 18506.51
+    },
+    {
+        "Order_Date": "2014-09-08",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1389.4,
+        "total_weight_tool": 19848.620000000003
+    },
+    {
+        "Order_Date": "2014-09-15",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 26011.370000000003
+    },
+    {
+        "Order_Date": "2014-09-22",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1454.59,
+        "total_weight_tool": 20779.88
+    },
+    {
+        "Order_Date": "2014-09-29",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1632.26,
+        "total_weight_tool": 23318.020000000004
+    },
+    {
+        "Order_Date": "2014-10-06",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1381.1,
+        "total_weight_tool": 19729.93
+    },
+    {
+        "Order_Date": "2014-10-13",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1392.6,
+        "total_weight_tool": 19894.270000000004
+    },
+    {
+        "Order_Date": "2014-10-20",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1622.04,
+        "total_weight_tool": 23171.940000000002
+    },
+    {
+        "Order_Date": "2014-10-27",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 25865.290000000005
+    },
+    {
+        "Order_Date": "2014-11-03",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1503.8,
+        "total_weight_tool": 21482.890000000003
+    },
+    {
+        "Order_Date": "2014-11-10",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1607.34,
+        "total_weight_tool": 22961.95
+    },
+    {
+        "Order_Date": "2014-11-17",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1154.21,
+        "total_weight_tool": 16488.780000000002
+    },
+    {
+        "Order_Date": "2014-11-24",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1278.2,
+        "total_weight_tool": 18260
+    },
+    {
+        "Order_Date": "2014-12-01",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1455.87,
+        "total_weight_tool": 20798.140000000003
+    },
+    {
+        "Order_Date": "2014-12-08",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1524.89,
+        "total_weight_tool": 21784.18
+    },
+    {
+        "Order_Date": "2014-12-15",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1400.27,
+        "total_weight_tool": 20003.83
+    },
+    {
+        "Order_Date": "2014-12-22",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 23573.66
+    },
+    {
+        "Order_Date": "2014-12-29",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 26066.15
+    },
+    {
+        "Order_Date": "2015-01-05",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 26458.740000000005
+    },
+    {
+        "Order_Date": "2015-01-12",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1113.31,
+        "total_weight_tool": 15904.460000000001
+    },
+    {
+        "Order_Date": "2015-01-19",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1260.94,
+        "total_weight_tool": 18013.49
+    },
+    {
+        "Order_Date": "2015-01-26",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1476.96,
+        "total_weight_tool": 21099.43
+    },
+    {
+        "Order_Date": "2015-02-02",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1319.74,
+        "total_weight_tool": 18853.45
+    },
+    {
+        "Order_Date": "2015-02-09",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 24367.97
+    },
+    {
+        "Order_Date": "2015-02-16",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 29270.780000000002
+    },
+    {
+        "Order_Date": "2015-02-23",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1606.7,
+        "total_weight_tool": 22952.820000000003
+    },
+    {
+        "Order_Date": "2015-03-02",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 28531.250000000004
+    },
+    {
+        "Order_Date": "2015-03-09",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1358.73,
+        "total_weight_tool": 19410.38
+    },
+    {
+        "Order_Date": "2015-03-16",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 25034.46
+    },
+    {
+        "Order_Date": "2015-03-23",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 26403.96
+    },
+    {
+        "Order_Date": "2015-03-30",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 27070.45
+    },
+    {
+        "Order_Date": "2015-04-06",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 26997.41
+    },
+    {
+        "Order_Date": "2015-04-13",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 26075.280000000002
+    },
+    {
+        "Order_Date": "2015-04-20",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 25682.690000000002
+    },
+    {
+        "Order_Date": "2015-04-27",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1556.21,
+        "total_weight_tool": 22231.550000000003
+    },
+    {
+        "Order_Date": "2015-05-04",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 25016.2
+    },
+    {
+        "Order_Date": "2015-05-11",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 28038.230000000003
+    },
+    {
+        "Order_Date": "2015-05-18",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 27444.780000000002
+    },
+    {
+        "Order_Date": "2015-05-25",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 28649.940000000002
+    },
+    {
+        "Order_Date": "2015-06-01",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 28750.370000000003
+    },
+    {
+        "Order_Date": "2015-06-08",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 31735.88
+    },
+    {
+        "Order_Date": "2015-06-15",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1404.1,
+        "total_weight_tool": 20058.61
+    },
+    {
+        "Order_Date": "2015-06-22",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 26002.240000000005
+    },
+    {
+        "Order_Date": "2015-06-29",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 24495.790000000005
+    },
+    {
+        "Order_Date": "2015-07-06",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 31626.320000000003
+    },
+    {
+        "Order_Date": "2015-07-13",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 28156.920000000002
+    },
+    {
+        "Order_Date": "2015-07-20",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 25271.840000000004
+    },
+    {
+        "Order_Date": "2015-07-27",
+        "Product_Id": 3,
+        "Store_Number": 2,
+        "Supplier": "A",
+        "order_cost": 1640,
+        "total_weight_tool": 26367.440000000002
+    }
+]

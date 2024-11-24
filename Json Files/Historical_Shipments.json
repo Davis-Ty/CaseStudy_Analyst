@@ -1,0 +1,1256 @@
+[
+    {
+        "Shipment_Date": "2014-08-04",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 15551
+    },
+    {
+        "Shipment_Date": "2014-08-04",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 15687
+    },
+    {
+        "Shipment_Date": "2014-08-04",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 14128
+    },
+    {
+        "Shipment_Date": "2014-08-04",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 21049
+    },
+    {
+        "Shipment_Date": "2014-08-11",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 16671
+    },
+    {
+        "Shipment_Date": "2014-08-11",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 14425
+    },
+    {
+        "Shipment_Date": "2014-08-11",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 13172
+    },
+    {
+        "Shipment_Date": "2014-08-11",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 16733
+    },
+    {
+        "Shipment_Date": "2014-08-18",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 15800
+    },
+    {
+        "Shipment_Date": "2014-08-18",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 14791
+    },
+    {
+        "Shipment_Date": "2014-08-18",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 11660
+    },
+    {
+        "Shipment_Date": "2014-08-18",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 19729
+    },
+    {
+        "Shipment_Date": "2014-08-25",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 14935
+    },
+    {
+        "Shipment_Date": "2014-08-25",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 20775
+    },
+    {
+        "Shipment_Date": "2014-08-25",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 11269
+    },
+    {
+        "Shipment_Date": "2014-08-25",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 28693
+    },
+    {
+        "Shipment_Date": "2014-09-01",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 15082
+    },
+    {
+        "Shipment_Date": "2014-09-01",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 16152
+    },
+    {
+        "Shipment_Date": "2014-09-01",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 14437
+    },
+    {
+        "Shipment_Date": "2014-09-01",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 16824
+    },
+    {
+        "Shipment_Date": "2014-09-08",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 13352
+    },
+    {
+        "Shipment_Date": "2014-09-08",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 16974
+    },
+    {
+        "Shipment_Date": "2014-09-08",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 11697
+    },
+    {
+        "Shipment_Date": "2014-09-08",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 18044
+    },
+    {
+        "Shipment_Date": "2014-09-15",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 15394
+    },
+    {
+        "Shipment_Date": "2014-09-15",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 19049
+    },
+    {
+        "Shipment_Date": "2014-09-15",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 15032
+    },
+    {
+        "Shipment_Date": "2014-09-15",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 23647
+    },
+    {
+        "Shipment_Date": "2014-09-22",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 14601
+    },
+    {
+        "Shipment_Date": "2014-09-22",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 15895
+    },
+    {
+        "Shipment_Date": "2014-09-22",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 11112
+    },
+    {
+        "Shipment_Date": "2014-09-22",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 18891
+    },
+    {
+        "Shipment_Date": "2014-09-29",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 12973
+    },
+    {
+        "Shipment_Date": "2014-09-29",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 15770
+    },
+    {
+        "Shipment_Date": "2014-09-29",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 10847
+    },
+    {
+        "Shipment_Date": "2014-09-29",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 21198
+    },
+    {
+        "Shipment_Date": "2014-10-06",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 15712
+    },
+    {
+        "Shipment_Date": "2014-10-06",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 16915
+    },
+    {
+        "Shipment_Date": "2014-10-06",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 12247
+    },
+    {
+        "Shipment_Date": "2014-10-06",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 17936
+    },
+    {
+        "Shipment_Date": "2014-10-13",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 13728
+    },
+    {
+        "Shipment_Date": "2014-10-13",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 17015
+    },
+    {
+        "Shipment_Date": "2014-10-13",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 11606
+    },
+    {
+        "Shipment_Date": "2014-10-13",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 18086
+    },
+    {
+        "Shipment_Date": "2014-10-20",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 15927
+    },
+    {
+        "Shipment_Date": "2014-10-20",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 15687
+    },
+    {
+        "Shipment_Date": "2014-10-20",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 14049
+    },
+    {
+        "Shipment_Date": "2014-10-20",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 21065
+    },
+    {
+        "Shipment_Date": "2014-10-27",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 13166
+    },
+    {
+        "Shipment_Date": "2014-10-27",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 17314
+    },
+    {
+        "Shipment_Date": "2014-10-27",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 9325
+    },
+    {
+        "Shipment_Date": "2014-10-27",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 23514
+    },
+    {
+        "Shipment_Date": "2014-11-03",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 14426
+    },
+    {
+        "Shipment_Date": "2014-11-03",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 16318
+    },
+    {
+        "Shipment_Date": "2014-11-03",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 12604
+    },
+    {
+        "Shipment_Date": "2014-11-03",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 19530
+    },
+    {
+        "Shipment_Date": "2014-11-10",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 18369
+    },
+    {
+        "Shipment_Date": "2014-11-10",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 15563
+    },
+    {
+        "Shipment_Date": "2014-11-10",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 15840
+    },
+    {
+        "Shipment_Date": "2014-11-10",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 20875
+    },
+    {
+        "Shipment_Date": "2014-11-17",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 14727
+    },
+    {
+        "Shipment_Date": "2014-11-17",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 14923
+    },
+    {
+        "Shipment_Date": "2014-11-17",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 13255
+    },
+    {
+        "Shipment_Date": "2014-11-17",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 14990
+    },
+    {
+        "Shipment_Date": "2014-11-24",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 15464
+    },
+    {
+        "Shipment_Date": "2014-11-24",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 15994
+    },
+    {
+        "Shipment_Date": "2014-11-24",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 12482
+    },
+    {
+        "Shipment_Date": "2014-11-24",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 16600
+    },
+    {
+        "Shipment_Date": "2014-12-01",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 16962
+    },
+    {
+        "Shipment_Date": "2014-12-01",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 15886
+    },
+    {
+        "Shipment_Date": "2014-12-01",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 16275
+    },
+    {
+        "Shipment_Date": "2014-12-01",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 18907
+    },
+    {
+        "Shipment_Date": "2014-12-08",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 15174
+    },
+    {
+        "Shipment_Date": "2014-12-08",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 14824
+    },
+    {
+        "Shipment_Date": "2014-12-08",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 12098
+    },
+    {
+        "Shipment_Date": "2014-12-08",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 19804
+    },
+    {
+        "Shipment_Date": "2014-12-15",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 17101
+    },
+    {
+        "Shipment_Date": "2014-12-15",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 17065
+    },
+    {
+        "Shipment_Date": "2014-12-15",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 14450
+    },
+    {
+        "Shipment_Date": "2014-12-15",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 18185
+    },
+    {
+        "Shipment_Date": "2014-12-22",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 16617
+    },
+    {
+        "Shipment_Date": "2014-12-22",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 17579
+    },
+    {
+        "Shipment_Date": "2014-12-22",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 16339
+    },
+    {
+        "Shipment_Date": "2014-12-22",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 21431
+    },
+    {
+        "Shipment_Date": "2014-12-29",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 19060
+    },
+    {
+        "Shipment_Date": "2014-12-29",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 17447
+    },
+    {
+        "Shipment_Date": "2014-12-29",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 18894
+    },
+    {
+        "Shipment_Date": "2014-12-29",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 23697
+    },
+    {
+        "Shipment_Date": "2015-01-05",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 17004
+    },
+    {
+        "Shipment_Date": "2015-01-05",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 19339
+    },
+    {
+        "Shipment_Date": "2015-01-05",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 14337
+    },
+    {
+        "Shipment_Date": "2015-01-05",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 24053
+    },
+    {
+        "Shipment_Date": "2015-01-12",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 13920
+    },
+    {
+        "Shipment_Date": "2015-01-12",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 14558
+    },
+    {
+        "Shipment_Date": "2015-01-12",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 10745
+    },
+    {
+        "Shipment_Date": "2015-01-12",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 14459
+    },
+    {
+        "Shipment_Date": "2015-01-19",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 14616
+    },
+    {
+        "Shipment_Date": "2015-01-19",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 12566
+    },
+    {
+        "Shipment_Date": "2015-01-19",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 11748
+    },
+    {
+        "Shipment_Date": "2015-01-19",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 16376
+    },
+    {
+        "Shipment_Date": "2015-01-26",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 16293
+    },
+    {
+        "Shipment_Date": "2015-01-26",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 14459
+    },
+    {
+        "Shipment_Date": "2015-01-26",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 14267
+    },
+    {
+        "Shipment_Date": "2015-01-26",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 19181
+    },
+    {
+        "Shipment_Date": "2015-02-02",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 15572
+    },
+    {
+        "Shipment_Date": "2015-02-02",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 16359
+    },
+    {
+        "Shipment_Date": "2015-02-02",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 13776
+    },
+    {
+        "Shipment_Date": "2015-02-02",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 17140
+    },
+    {
+        "Shipment_Date": "2015-02-09",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 17411
+    },
+    {
+        "Shipment_Date": "2015-02-09",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 18044
+    },
+    {
+        "Shipment_Date": "2015-02-09",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 16049
+    },
+    {
+        "Shipment_Date": "2015-02-09",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 22153
+    },
+    {
+        "Shipment_Date": "2015-02-16",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 14963
+    },
+    {
+        "Shipment_Date": "2015-02-16",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 19405
+    },
+    {
+        "Shipment_Date": "2015-02-16",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 12726
+    },
+    {
+        "Shipment_Date": "2015-02-16",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 26610
+    },
+    {
+        "Shipment_Date": "2015-02-23",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 15278
+    },
+    {
+        "Shipment_Date": "2015-02-23",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 17181
+    },
+    {
+        "Shipment_Date": "2015-02-23",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 11166
+    },
+    {
+        "Shipment_Date": "2015-02-23",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 20866
+    },
+    {
+        "Shipment_Date": "2015-03-02",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 15509
+    },
+    {
+        "Shipment_Date": "2015-03-02",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 18932
+    },
+    {
+        "Shipment_Date": "2015-03-02",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 12181
+    },
+    {
+        "Shipment_Date": "2015-03-02",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 25938
+    },
+    {
+        "Shipment_Date": "2015-03-09",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 20751
+    },
+    {
+        "Shipment_Date": "2015-03-09",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 15073
+    },
+    {
+        "Shipment_Date": "2015-03-09",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 18528
+    },
+    {
+        "Shipment_Date": "2015-03-09",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 17646
+    },
+    {
+        "Shipment_Date": "2015-03-16",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 16917
+    },
+    {
+        "Shipment_Date": "2015-03-16",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 16832
+    },
+    {
+        "Shipment_Date": "2015-03-16",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 15234
+    },
+    {
+        "Shipment_Date": "2015-03-16",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 22759
+    },
+    {
+        "Shipment_Date": "2015-03-23",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 15196
+    },
+    {
+        "Shipment_Date": "2015-03-23",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 19281
+    },
+    {
+        "Shipment_Date": "2015-03-23",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 14309
+    },
+    {
+        "Shipment_Date": "2015-03-23",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 24004
+    },
+    {
+        "Shipment_Date": "2015-03-30",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 16454
+    },
+    {
+        "Shipment_Date": "2015-03-30",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 18044
+    },
+    {
+        "Shipment_Date": "2015-03-30",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 14041
+    },
+    {
+        "Shipment_Date": "2015-03-30",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 24610
+    },
+    {
+        "Shipment_Date": "2015-04-06",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 18255
+    },
+    {
+        "Shipment_Date": "2015-04-06",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 17986
+    },
+    {
+        "Shipment_Date": "2015-04-06",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 17404
+    },
+    {
+        "Shipment_Date": "2015-04-06",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 24543
+    },
+    {
+        "Shipment_Date": "2015-04-13",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 17606
+    },
+    {
+        "Shipment_Date": "2015-04-13",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 17447
+    },
+    {
+        "Shipment_Date": "2015-04-13",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 15282
+    },
+    {
+        "Shipment_Date": "2015-04-13",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 23705
+    },
+    {
+        "Shipment_Date": "2015-04-20",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 17450
+    },
+    {
+        "Shipment_Date": "2015-04-20",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 17198
+    },
+    {
+        "Shipment_Date": "2015-04-20",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 16393
+    },
+    {
+        "Shipment_Date": "2015-04-20",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 23348
+    },
+    {
+        "Shipment_Date": "2015-04-27",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 18222
+    },
+    {
+        "Shipment_Date": "2015-04-27",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 16758
+    },
+    {
+        "Shipment_Date": "2015-04-27",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 14888
+    },
+    {
+        "Shipment_Date": "2015-04-27",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 20211
+    },
+    {
+        "Shipment_Date": "2015-05-04",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 17118
+    },
+    {
+        "Shipment_Date": "2015-05-04",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 20103
+    },
+    {
+        "Shipment_Date": "2015-05-04",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 15095
+    },
+    {
+        "Shipment_Date": "2015-05-04",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 22742
+    },
+    {
+        "Shipment_Date": "2015-05-11",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 19712
+    },
+    {
+        "Shipment_Date": "2015-05-11",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 20269
+    },
+    {
+        "Shipment_Date": "2015-05-11",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 17280
+    },
+    {
+        "Shipment_Date": "2015-05-11",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 25489
+    },
+    {
+        "Shipment_Date": "2015-05-18",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 19407
+    },
+    {
+        "Shipment_Date": "2015-05-18",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 18268
+    },
+    {
+        "Shipment_Date": "2015-05-18",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 17909
+    },
+    {
+        "Shipment_Date": "2015-05-18",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 24950
+    },
+    {
+        "Shipment_Date": "2015-05-25",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 18817
+    },
+    {
+        "Shipment_Date": "2015-05-25",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 18999
+    },
+    {
+        "Shipment_Date": "2015-05-25",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 17556
+    },
+    {
+        "Shipment_Date": "2015-05-25",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 26045
+    },
+    {
+        "Shipment_Date": "2015-06-01",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 18608
+    },
+    {
+        "Shipment_Date": "2015-06-01",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 19073
+    },
+    {
+        "Shipment_Date": "2015-06-01",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 16419
+    },
+    {
+        "Shipment_Date": "2015-06-01",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 26137
+    },
+    {
+        "Shipment_Date": "2015-06-08",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 19102
+    },
+    {
+        "Shipment_Date": "2015-06-08",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 20883
+    },
+    {
+        "Shipment_Date": "2015-06-08",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 16488
+    },
+    {
+        "Shipment_Date": "2015-06-08",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 28851
+    },
+    {
+        "Shipment_Date": "2015-06-15",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 19190
+    },
+    {
+        "Shipment_Date": "2015-06-15",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 17098
+    },
+    {
+        "Shipment_Date": "2015-06-15",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 19104
+    },
+    {
+        "Shipment_Date": "2015-06-15",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 18235
+    },
+    {
+        "Shipment_Date": "2015-06-22",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 18378
+    },
+    {
+        "Shipment_Date": "2015-06-22",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 20667
+    },
+    {
+        "Shipment_Date": "2015-06-22",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 14711
+    },
+    {
+        "Shipment_Date": "2015-06-22",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 23638
+    },
+    {
+        "Shipment_Date": "2015-06-29",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 20008
+    },
+    {
+        "Shipment_Date": "2015-06-29",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 18102
+    },
+    {
+        "Shipment_Date": "2015-06-29",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 15685
+    },
+    {
+        "Shipment_Date": "2015-06-29",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 22269
+    },
+    {
+        "Shipment_Date": "2015-07-06",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 20573
+    },
+    {
+        "Shipment_Date": "2015-07-06",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 20800
+    },
+    {
+        "Shipment_Date": "2015-07-06",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 18469
+    },
+    {
+        "Shipment_Date": "2015-07-06",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 28751
+    },
+    {
+        "Shipment_Date": "2015-07-13",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 20667
+    },
+    {
+        "Shipment_Date": "2015-07-13",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 18708
+    },
+    {
+        "Shipment_Date": "2015-07-13",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 17739
+    },
+    {
+        "Shipment_Date": "2015-07-13",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 25597
+    },
+    {
+        "Shipment_Date": "2015-07-20",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 19372
+    },
+    {
+        "Shipment_Date": "2015-07-20",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 18609
+    },
+    {
+        "Shipment_Date": "2015-07-20",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 17367
+    },
+    {
+        "Shipment_Date": "2015-07-20",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 22974
+    },
+    {
+        "Shipment_Date": "2015-07-27",
+        "Store_Number": 1,
+        "Supplier": "A",
+        "Weight": 18471
+    },
+    {
+        "Shipment_Date": "2015-07-27",
+        "Store_Number": 1,
+        "Supplier": "B",
+        "Weight": 20891
+    },
+    {
+        "Shipment_Date": "2015-07-27",
+        "Store_Number": 2,
+        "Supplier": "A",
+        "Weight": 17474
+    },
+    {
+        "Shipment_Date": "2015-07-27",
+        "Store_Number": 2,
+        "Supplier": "B",
+        "Weight": 23970
+    },
+    {
+        "Shipment_Date": null,
+        "Store_Number": null,
+        "Supplier": null,
+        "Weight": null
+    }
+]

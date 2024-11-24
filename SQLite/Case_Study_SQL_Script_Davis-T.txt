@@ -1,0 +1,1258 @@
+
+
+UPDATE Product_Information
+SET Total_Quanity_By_Next_Year = (
+    SELECT (((SUM(HO.order_quantity) * 0.10))+ SUM(HO.order_quantity)) 
+    FROM Historical_Orders HO
+    JOIN Product_Information pr_I 
+        ON HO.Product_Id = pr_I.Product_Id
+    JOIN Store_Information st_I 
+        ON HO.Store_Number = st_I.Store_ID
+    JOIN Supplier_Information su_I 
+        ON st_I.Supplier_ID = su_I.Supplier_ID
+    WHERE pr_I.Product_Id = 1
+)
+WHERE Product_Information.Product_Id = 1
+;
+
+
+UPDATE Product_Information
+SET Total_Quanity_By_Next_Year = (
+    SELECT (((SUM(HO.order_quantity) * 0.10)) + SUM(HO.order_quantity)) 
+    FROM Historical_Orders HO
+    JOIN Product_Information pr_I 
+        ON HO.Product_Id = pr_I.Product_Id
+    JOIN Store_Information st_I 
+        ON HO.Store_Number = st_I.Store_ID
+    JOIN Supplier_Information su_I 
+        ON st_I.Supplier_ID = su_I.Supplier_ID
+    WHERE pr_I.Product_Id = 1
+)
+WHERE Product_Information.Product_Id = 4;
+
+UPDATE Product_Information
+SET Total_Quanity_By_Next_Year = (
+    SELECT (((SUM(HO.order_quantity) * 0.10)) + SUM(HO.order_quantity)) 
+    FROM Historical_Orders HO
+    JOIN Product_Information pr_I 
+        ON HO.Product_Id = pr_I.Product_Id
+    JOIN Store_Information st_I 
+        ON HO.Store_Number = st_I.Store_ID
+    JOIN Supplier_Information su_I 
+        ON st_I.Supplier_ID = su_I.Supplier_ID
+    WHERE pr_I.Product_Id = 2
+)
+WHERE Product_Information.Product_Id = 2;
+
+
+UPDATE Product_Information
+SET Total_Quanity_By_Next_Year = (
+    SELECT (((SUM(HO.order_quantity) * 0.10)) + SUM(HO.order_quantity)) 
+    FROM Historical_Orders HO
+    JOIN Product_Information pr_I 
+        ON HO.Product_Id = pr_I.Product_Id
+    JOIN Store_Information st_I 
+        ON HO.Store_Number = st_I.Store_ID
+    JOIN Supplier_Information su_I 
+        ON st_I.Supplier_ID = su_I.Supplier_ID
+    WHERE pr_I.Product_Id = 3
+)
+WHERE Product_Information.Product_Id = 3;
+
+-- find hammer production Cost
+select Supplier_Information.Supplier_ID,Supplier_Name,( Total_Quanity_By_Next_Year*Hammer_Cost_Per_Unit)
+from Product_Information, Supplier_Information 
+where Product_Information.Product_Id=4
+;
+
+DROP table All_TOOL_Shipping_information;
+CREATE TABLE All_TOOL_Shipping_information (
+    Supplier VARCHAR(50),          -- Name of the supplier
+    Store_Number INT,              -- Store number 
+    Product_Id INT,                -- Product ID 
+    Order_Date DATE,               -- Date of the order
+    total_weight_tool DECIMAL(10,2), -- Total calculated weight of the tools
+    order_cost DECIMAL(10,2)        -- Calculated shipping cost for the order
+);
+
+
+INSERT INTO All_TOOL_Shipping_information (Supplier,Store_Number,Product_Id, Order_Date, total_weight_tool, order_cost)
+
+
+SELECT 
+	"B" as Supplier,
+	HO.Store_Number,
+    4 AS product_ID , 
+    ho.Order_Date,
+    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) * 2.0) AS total_weight_tool,
+    MIN(
+       
+	
+                ROUND(
+                    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) * 2.0) * 
+                    (SELECT cost FROM Carrier_Rates WHERE Supplier = "B" AND Store_Number = 1 and Carrier="Y" ), 
+                    2
+                ),
+                CEIL((((ho.Order_Quantity * 0.10) + ho.Order_Quantity) * 2.0) / 44000.00) * 
+                (SELECT cost FROM Carrier_Rates WHERE Supplier = "B" AND Store_Number = 1 and Carrier="X")
+				
+				
+    ) AS order_cost
+FROM Historical_Orders ho
+JOIN Carrier_Rates cr
+    ON cr.Supplier = ho.Supplier
+WHERE 
+    ho.Store_Number = 1
+    AND ho.Product_Id = 1
+	
+GROUP BY 
+	ho.Order_Date, 
+    ho.Order_Quantity, 
+    ho.Product_Id, 
+    ho.Supplier
+	
+	
+	union ALL
+	
+
+SELECT 
+	"B" as Supplier,
+	HO.Store_Number,
+    4 AS product_ID , 
+    ho.Order_Date,
+    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) * 2.0) AS total_weight_tool,
+    MIN(
+        
+                ROUND(
+                    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) * 2.0) * 
+                    (SELECT cost FROM Carrier_Rates WHERE Supplier = "B" AND Store_Number = 2 and Carrier="Y" ), 
+                    2
+                ),
+                CEIL((((ho.Order_Quantity * 0.10) + ho.Order_Quantity) * 2.0) / 44000.00) * 
+                (SELECT cost FROM Carrier_Rates WHERE Supplier = "B" AND Store_Number = 2 and Carrier="X")
+				
+				
+    ) AS order_cost
+FROM Historical_Orders ho
+JOIN Carrier_Rates cr
+    ON cr.Supplier = ho.Supplier
+WHERE 
+    ho.Store_Number = 2
+    AND ho.Product_Id = 1
+	
+GROUP BY 
+	ho.Order_Date, 
+    ho.Order_Quantity, 
+    ho.Product_Id, 
+    ho.Supplier
+	
+	union ALL
+	
+	SELECT 
+	"A" as Supplier,
+	HO.Store_Number,
+    4 AS product_ID , 
+    ho.Order_Date,
+    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) * 2.0) AS total_weight_tool,
+    MIN(
+        
+                ROUND(
+                    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) * 2.0) * 
+                    (SELECT cost FROM Carrier_Rates WHERE Supplier = "A" AND Store_Number = 1 and Carrier="Y" ), 
+                    2
+                ),
+                CEIL((((ho.Order_Quantity * 0.10) + ho.Order_Quantity) * 2.0) / 44000.0) * 
+                (SELECT cost FROM Carrier_Rates WHERE Supplier = "A" AND Store_Number = 1 and Carrier="X")
+				
+				
+    ) AS order_cost
+FROM Historical_Orders ho
+JOIN Carrier_Rates cr
+    ON cr.Supplier = ho.Supplier
+WHERE 
+    ho.Store_Number = 1
+    AND ho.Product_Id = 1
+	
+GROUP BY 
+	ho.Order_Date, 
+    ho.Order_Quantity, 
+    ho.Product_Id, 
+    ho.Supplier
+	
+	union ALL
+	
+	
+		SELECT 
+	"A" as Supplier,
+	HO.Store_Number,
+    4 AS product_ID , 
+    ho.Order_Date,
+    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) * 2.0) AS total_weight_tool,
+    MIN(
+        
+                ROUND(
+                    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) * 2.0) * 
+                    (SELECT cost FROM Carrier_Rates WHERE Supplier = "A" AND Store_Number = 2 and Carrier="Y" ), 
+                    2
+                ),
+                CEIL((((ho.Order_Quantity * 0.10) + ho.Order_Quantity) * 2.0) / 44000.00) * 
+                (SELECT cost FROM Carrier_Rates WHERE Supplier = "A" AND Store_Number = 2 and Carrier="X")
+				
+				
+    ) AS order_cost
+FROM Historical_Orders ho
+JOIN Carrier_Rates cr
+    ON cr.Supplier = ho.Supplier
+WHERE 
+    ho.Store_Number = 2
+    AND ho.Product_Id = 1
+	
+GROUP BY 
+	ho.Order_Date, 
+    ho.Order_Quantity, 
+    ho.Product_Id, 
+    ho.Supplier
+	
+	union ALL
+	
+	
+
+
+SELECT 
+	"B" as Supplier,
+	HO.Store_Number,
+    ho.product_ID , 
+    ho.Order_Date,
+    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) AS total_weight_tool,
+    MIN(
+        
+                ROUND(
+                    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) * 
+                    (SELECT cost FROM Carrier_Rates WHERE Supplier = "B" AND Store_Number = 1 and Carrier="Y" ), 
+                    2
+                ),
+                CEIL((((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight) / 44000.00) * 
+                (SELECT cost FROM Carrier_Rates WHERE Supplier = "B" AND Store_Number = 1 and Carrier="X")
+				
+				
+    ) AS order_cost
+FROM Historical_Orders ho
+JOIN Carrier_Rates cr
+    ON cr.Supplier = ho.Supplier
+	join Product_Information pr_I 
+	on ho.Product_Id=pr_I.Product_Id
+WHERE 
+    ho.Store_Number = 1
+    AND ho.Product_Id = 1
+	
+GROUP BY 
+	ho.Order_Date, 
+    ho.Order_Quantity, 
+    ho.Product_Id, 
+    ho.Supplier
+	
+	
+	union ALL
+
+SELECT 
+	"B" as Supplier,
+	HO.Store_Number,
+    ho.product_ID , 
+    ho.Order_Date,
+    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) AS total_weight_tool,
+    MIN(
+        
+                ROUND(
+                    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) * 
+                    (SELECT cost FROM Carrier_Rates WHERE Supplier = "B" AND Store_Number = 2 and Carrier="Y" ), 
+                    2
+                ),
+                CEIL((((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight) / 44000.00) * 
+                (SELECT cost FROM Carrier_Rates WHERE Supplier = "B" AND Store_Number = 2 and Carrier="X")
+				
+				
+    ) AS order_cost
+FROM Historical_Orders ho
+JOIN Carrier_Rates cr
+    ON cr.Supplier = ho.Supplier
+	join Product_Information pr_I 
+	on ho.Product_Id=pr_I.Product_Id
+WHERE 
+    ho.Store_Number = 2
+    AND ho.Product_Id = 1
+	
+GROUP BY 
+	ho.Order_Date, 
+    ho.Order_Quantity, 
+    ho.Product_Id, 
+    ho.Supplier
+		
+	union ALL
+	
+SELECT 
+	"A" as Supplier,
+	HO.Store_Number,
+    ho.product_ID , 
+    ho.Order_Date,
+    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) AS total_weight_tool,
+    MIN(
+        
+                ROUND(
+                    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) * 
+                    (SELECT cost FROM Carrier_Rates WHERE Supplier = "A" AND Store_Number = 1 and Carrier="Y" ), 
+                    2
+                ),
+                CEIL((((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight) / 44000.00) * 
+                (SELECT cost FROM Carrier_Rates WHERE Supplier = "A" AND Store_Number = 1 and Carrier="X")
+				
+				
+    ) AS order_cost
+FROM Historical_Orders ho
+JOIN Carrier_Rates cr
+    ON cr.Supplier = ho.Supplier
+	join Product_Information pr_I 
+	on ho.Product_Id=pr_I.Product_Id
+WHERE 
+    ho.Store_Number = 1
+    AND ho.Product_Id = 1
+	
+GROUP BY 
+	ho.Order_Date, 
+    ho.Order_Quantity, 
+    ho.Product_Id, 
+    ho.Supplier
+	
+	union ALL
+	
+	
+	
+SELECT 
+	"A" as Supplier,
+	HO.Store_Number,
+    ho.product_ID , 
+    ho.Order_Date,
+    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) AS total_weight_tool,
+    MIN(
+        
+                ROUND(
+                    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) * 
+                    (SELECT cost FROM Carrier_Rates WHERE Supplier = "A" AND Store_Number = 2 and Carrier="Y" ), 
+                    2
+                ),
+                CEIL((((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight) / 44000.00) * 
+                (SELECT cost FROM Carrier_Rates WHERE Supplier = "A" AND Store_Number = 2 and Carrier="X")
+				
+				
+    ) AS order_cost
+FROM Historical_Orders ho
+JOIN Carrier_Rates cr
+    ON cr.Supplier = ho.Supplier
+	join Product_Information pr_I 
+	on ho.Product_Id=pr_I.Product_Id
+WHERE 
+    ho.Store_Number = 2
+    AND ho.Product_Id = 1
+	
+GROUP BY 
+	ho.Order_Date, 
+    ho.Order_Quantity, 
+    ho.Product_Id, 
+    ho.Supplier
+	
+	
+	union ALL
+	
+	
+
+
+SELECT 
+	"B" as Supplier,
+	HO.Store_Number,
+    ho.product_ID , 
+    ho.Order_Date,
+    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) AS total_weight_tool,
+    MIN(
+        
+                ROUND(
+                    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) * 
+                    (SELECT cost FROM Carrier_Rates WHERE Supplier = "B" AND Store_Number = 1 and Carrier="Y" ), 
+                    2
+                ),
+                CEIL((((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight) / 44000.00) * 
+                (SELECT cost FROM Carrier_Rates WHERE Supplier = "B" AND Store_Number = 1 and Carrier="X")
+				
+				
+    ) AS order_cost
+FROM Historical_Orders ho
+JOIN Carrier_Rates cr
+    ON cr.Supplier = ho.Supplier
+	join Product_Information pr_I 
+	on ho.Product_Id=pr_I.Product_Id
+WHERE 
+    ho.Store_Number = 1
+    AND ho.Product_Id = 2
+	
+GROUP BY 
+	ho.Order_Date, 
+    ho.Order_Quantity, 
+    ho.Product_Id, 
+    ho.Supplier
+	
+	
+	union ALL
+
+SELECT 
+	"B" as Supplier,
+	HO.Store_Number,
+    ho.product_ID , 
+    ho.Order_Date,
+    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) AS total_weight_tool,
+    MIN(
+        
+                ROUND(
+                    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) * 
+                    (SELECT cost FROM Carrier_Rates WHERE Supplier = "B" AND Store_Number = 2 and Carrier="Y" ), 
+                    2
+                ),
+                CEIL((((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight) / 44000.00) * 
+                (SELECT cost FROM Carrier_Rates WHERE Supplier = "B" AND Store_Number = 2 and Carrier="X")
+				
+				
+    ) AS order_cost
+FROM Historical_Orders ho
+JOIN Carrier_Rates cr
+    ON cr.Supplier = ho.Supplier
+	join Product_Information pr_I 
+	on ho.Product_Id=pr_I.Product_Id
+WHERE 
+    ho.Store_Number = 2
+    AND ho.Product_Id = 2
+	
+GROUP BY 
+	ho.Order_Date, 
+    ho.Order_Quantity, 
+    ho.Product_Id, 
+    ho.Supplier
+		
+	union ALL
+	
+SELECT 
+	"A" as Supplier,
+	HO.Store_Number,
+    ho.product_ID , 
+    ho.Order_Date,
+    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) AS total_weight_tool,
+    MIN(
+        
+                ROUND(
+                    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) * 
+                    (SELECT cost FROM Carrier_Rates WHERE Supplier = "A" AND Store_Number = 1 and Carrier="Y" ), 
+                    2
+                ),
+                CEIL((((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight) / 44000.00) * 
+                (SELECT cost FROM Carrier_Rates WHERE Supplier = "A" AND Store_Number = 1 and Carrier="X")
+				
+				
+    ) AS order_cost
+FROM Historical_Orders ho
+JOIN Carrier_Rates cr
+    ON cr.Supplier = ho.Supplier
+	join Product_Information pr_I 
+	on ho.Product_Id=pr_I.Product_Id
+WHERE 
+    ho.Store_Number = 1
+    AND ho.Product_Id = 2
+	
+GROUP BY 
+	ho.Order_Date, 
+    ho.Order_Quantity, 
+    ho.Product_Id, 
+    ho.Supplier
+	
+	union ALL
+	
+	
+	
+SELECT 
+	"A" as Supplier,
+	HO.Store_Number,
+    ho.product_ID , 
+    ho.Order_Date,
+    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) AS total_weight_tool,
+    MIN(
+        
+                ROUND(
+                    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) * 
+                    (SELECT cost FROM Carrier_Rates WHERE Supplier = "A" AND Store_Number = 2 and Carrier="Y" ), 
+                    2
+                ),
+                CEIL((((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight) / 44000.00) * 
+                (SELECT cost FROM Carrier_Rates WHERE Supplier = "A" AND Store_Number = 2 and Carrier="X")
+				
+				
+    ) AS order_cost
+FROM Historical_Orders ho
+JOIN Carrier_Rates cr
+    ON cr.Supplier = ho.Supplier
+	join Product_Information pr_I 
+	on ho.Product_Id=pr_I.Product_Id
+WHERE 
+    ho.Store_Number = 2
+    AND ho.Product_Id = 2
+	
+GROUP BY 
+	ho.Order_Date, 
+    ho.Order_Quantity, 
+    ho.Product_Id, 
+    ho.Supplier
+	
+
+	union ALL
+	
+	
+
+
+SELECT 
+	"B" as Supplier,
+	HO.Store_Number,
+    ho.product_ID , 
+    ho.Order_Date,
+    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) AS total_weight_tool,
+    MIN(
+        
+                ROUND(
+                    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) * 
+                    (SELECT cost FROM Carrier_Rates WHERE Supplier = "B" AND Store_Number = 1 and Carrier="Y" ), 
+                    2
+                ),
+                CEIL((((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight) / 44000.00) * 
+                (SELECT cost FROM Carrier_Rates WHERE Supplier = "B" AND Store_Number = 1 and Carrier="X")
+				
+				
+    ) AS order_cost
+FROM Historical_Orders ho
+JOIN Carrier_Rates cr
+    ON cr.Supplier = ho.Supplier
+	join Product_Information pr_I 
+	on ho.Product_Id=pr_I.Product_Id
+WHERE 
+    ho.Store_Number = 1
+    AND ho.Product_Id = 3
+	
+GROUP BY 
+	ho.Order_Date, 
+    ho.Order_Quantity, 
+    ho.Product_Id, 
+    ho.Supplier
+	
+	
+	union ALL
+
+SELECT 
+	"B" as Supplier,
+	HO.Store_Number,
+    ho.product_ID , 
+    ho.Order_Date,
+    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) AS total_weight_tool,
+    MIN(
+        
+                ROUND(
+                    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) * 
+                    (SELECT cost FROM Carrier_Rates WHERE Supplier = "B" AND Store_Number = 2 and Carrier="Y" ), 
+                    2
+                ),
+                CEIL((((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight) / 44000.00) * 
+                (SELECT cost FROM Carrier_Rates WHERE Supplier = "B" AND Store_Number = 2 and Carrier="X")
+				
+				
+    ) AS order_cost
+FROM Historical_Orders ho
+JOIN Carrier_Rates cr
+    ON cr.Supplier = ho.Supplier
+	join Product_Information pr_I 
+	on ho.Product_Id=pr_I.Product_Id
+WHERE 
+    ho.Store_Number = 2
+    AND ho.Product_Id = 3
+	
+GROUP BY 
+	ho.Order_Date, 
+    ho.Order_Quantity, 
+    ho.Product_Id, 
+    ho.Supplier
+		
+	union ALL
+	
+SELECT 
+	"A" as Supplier,
+	HO.Store_Number,
+    ho.product_ID , 
+    ho.Order_Date,
+    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) AS total_weight_tool,
+    MIN(
+        
+                ROUND(
+                    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) * 
+                    (SELECT cost FROM Carrier_Rates WHERE Supplier = "A" AND Store_Number = 1 and Carrier="Y" ), 
+                    2
+                ),
+                CEIL((((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight) / 44000.00) * 
+                (SELECT cost FROM Carrier_Rates WHERE Supplier = "A" AND Store_Number = 1 and Carrier="X")
+				
+				
+    ) AS order_cost
+FROM Historical_Orders ho
+JOIN Carrier_Rates cr
+    ON cr.Supplier = ho.Supplier
+	join Product_Information pr_I 
+	on ho.Product_Id=pr_I.Product_Id
+WHERE 
+    ho.Store_Number = 1
+    AND ho.Product_Id = 3
+	
+GROUP BY 
+	ho.Order_Date, 
+    ho.Order_Quantity, 
+    ho.Product_Id, 
+    ho.Supplier
+	
+	union ALL
+	
+	
+	
+SELECT 
+	"A" as Supplier,
+	HO.Store_Number,
+    ho.product_ID , 
+    ho.Order_Date,
+    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) AS total_weight_tool,
+    MIN(
+        
+                ROUND(
+                    (((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight ) * 
+                    (SELECT cost FROM Carrier_Rates WHERE Supplier = "A" AND Store_Number = 2 and Carrier="Y" ), 
+                    2
+                ),
+                CEIL((((ho.Order_Quantity * 0.10) + ho.Order_Quantity) *pr_I.Weight) / 44000.00) * 
+                (SELECT cost FROM Carrier_Rates WHERE Supplier = "A" AND Store_Number = 2 and Carrier="X")
+				
+				
+    ) AS order_cost
+FROM Historical_Orders ho
+JOIN Carrier_Rates cr
+    ON cr.Supplier = ho.Supplier
+	join Product_Information pr_I 
+	on ho.Product_Id=pr_I.Product_Id
+WHERE 
+    ho.Store_Number = 2
+    AND ho.Product_Id = 3
+	
+GROUP BY 
+	ho.Order_Date, 
+    ho.Order_Quantity, 
+    ho.Product_Id, 
+    ho.Supplier;
+	
+	
+	select Product_Id, Supplier, Store_number, order_date, Sum(total_weight_tool), sum(order_cost)
+	from All_TOOL_Shipping_information
+	GROUP by supplier, Store_Number, order_date, Product_Id;
+	
+
+	select Pr_I.supplier_ID as "Product_Supplier_ID" ,ATSI.Product_Id , ATSI.Supplier AS "ALL_Supplier_ID", ATSI.Store_number, ATSI.order_date, Sum(ATSI.total_weight_tool), sum(ATSI.order_cost)
+	from All_TOOL_Shipping_information ATSI join
+	Product_Information Pr_I
+	on
+	ATSI.Product_Id= pr_I.Product_Id
+	GROUP by ATSI.supplier, ATSI.Store_Number, ATSI.order_date, ATSI.Product_Id;
+	
+	
+SELECT 
+    Pr_I.supplier_ID AS "Product_Supplier_ID", 
+    ATSI.Product_Id, 
+    ATSI.Supplier AS "ALL_Supplier_ID", 
+    ATSI.Store_number, 
+    ATSI.order_date, 
+    SUM(ATSI.total_weight_tool) AS total_weight_sum, 
+    SUM(ATSI.order_cost) AS total_cost_sum
+FROM 
+    All_TOOL_Shipping_information ATSI
+JOIN 
+    Product_Information Pr_I
+ON 
+    ATSI.Product_Id = Pr_I.Product_Id
+GROUP BY 
+    ATSI.Product_Id, 
+    ATSI.Supplier, 
+    ATSI.Store_Number, 
+    ATSI.Order_Date;
+	
+	
+	
+SELECT 
+    Pr_I.supplier_ID AS "Product_Supplier_ID", 
+    ATSI.Product_Id, 
+    ATSI.Supplier AS "ALL_Supplier_ID", 
+    ATSI.Store_number, 
+    ATSI.order_date, 
+    SUM(ATSI.total_weight_tool) AS total_weight_sum, 
+    SUM(ATSI.order_cost) AS total_cost_sum
+FROM 
+    All_TOOL_Shipping_information ATSI
+JOIN 
+    Product_Information Pr_I
+ON 
+    ATSI.Product_Id = Pr_I.Product_Id
+	
+where pr_I.Supplier_ID=ATSI.Supplier
+
+GROUP BY 
+    ATSI.Product_Id, 
+    ATSI.Supplier, 
+    ATSI.Store_Number, 
+    ATSI.Order_Date;
+
+
+SELECT  Supplier,Order_Date, sum(order_cost), sum(total_weight_tool)
+from All_TOOL_Shipping_information atsi
+where atsi.Supplier ="A"
+AND
+Product_Id=1
+or
+ atsi.Supplier ="A"
+ AND
+Product_Id=2
+or
+
+ atsi.Supplier ="A"
+AND
+
+Product_Id=4
+
+group by Order_Date, ATSI.Supplier, 
+    ATSI.Store_Number;
+	
+
+Drop table Supplier_A_With_Hammers;
+	
+CREATE TABLE Supplier_A_With_Hammers (
+    ALL_Supplier_ID VARCHAR(50),
+    Store_number INT,
+    Order_date DATE,
+    Total_weight_sum DECIMAL(18, 2),
+    Total_cost_sum DECIMAL(18, 2),
+    Carrier_Y DECIMAL(18, 2),
+    Carrier_X DECIMAL(18, 2),
+    Order_cost DECIMAL(18, 2)
+);
+drop table Supplier_A_Without_Hammers;
+
+CREATE TABLE Supplier_A_Without_Hammers (
+    ALL_Supplier_ID VARCHAR(50),
+    Store_number INT,
+    Order_date DATE,
+    Total_weight_sum DECIMAL(18, 2),
+    Total_cost_sum DECIMAL(18, 2),
+    Carrier_Y DECIMAL(18, 2),
+    Carrier_X DECIMAL(18, 2),
+    Order_cost DECIMAL(18, 2)
+);
+
+
+drop table Supplier_B_With_Hammers;
+CREATE TABLE Supplier_B_With_Hammers (
+    ALL_Supplier_ID VARCHAR(50),
+    Store_number INT,
+    Order_date DATE,
+    Total_weight_sum DECIMAL(18, 2),
+    Total_cost_sum DECIMAL(18, 2),
+    Carrier_Y DECIMAL(18, 2),
+    Carrier_X DECIMAL(18, 2),
+    Order_cost DECIMAL(18, 2)
+);
+
+drop table Supplier_B_Without_Hammers;
+CREATE TABLE Supplier_B_Without_Hammers (
+    ALL_Supplier_ID VARCHAR(50),
+    Store_number INT,
+    Order_date DATE,
+    Total_weight_sum DECIMAL(18, 2),
+    Total_cost_sum DECIMAL(18, 2),
+    Carrier_Y DECIMAL(18, 2),
+    Carrier_X DECIMAL(18, 2),
+    Order_cost DECIMAL(18, 2)
+);
+
+drop table Supplier_A_With_All_tools;
+CREATE TABLE Supplier_A_With_All_tools (
+    ALL_Supplier_ID VARCHAR(50),
+    Store_number INT,
+    Order_date DATE,
+    Total_weight_sum DECIMAL(18, 2),
+    Total_cost_sum DECIMAL(18, 2),
+    Carrier_Y DECIMAL(18, 2),
+    Carrier_X DECIMAL(18, 2),
+    Order_cost DECIMAL(18, 2)
+);
+
+drop table Supplier_B_With_All_tools;
+CREATE TABLE Supplier_B_With_All_tools(
+    ALL_Supplier_ID VARCHAR(50),
+    Store_number INT,
+    Order_date DATE,
+    Total_weight_sum DECIMAL(18, 2),
+    Total_cost_sum DECIMAL(18, 2),
+    Carrier_Y DECIMAL(18, 2),
+    Carrier_X DECIMAL(18, 2),
+    Order_cost DECIMAL(18, 2)
+);
+
+
+--Supplier a with all tools
+INSERT INTO Supplier_A_With_All_Tools
+SELECT   
+    ATSI.Supplier AS "ALL_Supplier_ID", 
+    ATSI.Store_number, 
+    ATSI.order_date,
+    SUM(ATSI.total_weight_tool) AS total_weight_sum, 
+    SUM(ATSI.order_cost) AS total_cost_sum,
+	ROUND(
+                    (sum(ATSI.total_weight_tool) ) * 
+                    (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "A"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="Y"), 
+                    2
+                ) as "carrier_Y",
+	 ceil((sum(ATSI.total_weight_tool)) / 44000.00)   * 
+                (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "A"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="X")
+				as "carrier_X",
+	
+	MIN(
+        
+                ROUND(
+                    (sum(ATSI.total_weight_tool) ) * 
+                    (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "A"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="Y"), 
+                    2
+                ),
+                ceil((sum(ATSI.total_weight_tool)) / 44000.00)   * 
+                (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "A"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="X")
+				
+				
+    ) AS order_cost
+FROM 
+    All_TOOL_Shipping_information ATSI
+JOIN 
+    Product_Information Pr_I
+ON 
+    ATSI.Product_Id = Pr_I.Product_Id
+	
+where pr_I.Supplier_ID=ATSI.Supplier
+and ATSI.Product_Id = Pr_I.Product_Id
+AND pr_I.Supplier_ID="A"
+or atsi.Product_Id=3
+AND
+atsi.Supplier="A"
+
+GROUP BY ATSI.Order_Date,
+    ATSI.Supplier, 
+    ATSI.Store_Number;
+	
+--supplier a with hammers
+INSERT INTO Supplier_A_With_Hammers
+SELECT   
+    ATSI.Supplier AS "ALL_Supplier_ID", 
+    ATSI.Store_number, 
+    ATSI.order_date,
+    SUM(ATSI.total_weight_tool) AS total_weight_sum, 
+    SUM(ATSI.order_cost) AS total_cost_sum,
+	ROUND(
+                    (sum(ATSI.total_weight_tool) ) * 
+                    (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "A"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="Y"), 
+                    2
+                ) as "carrier_Y",
+	 ceil((sum(ATSI.total_weight_tool)) / 44000.00)   * 
+                (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "A"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="X")
+				as "carrier_X",
+	
+	MIN(
+        
+                ROUND(
+                    (sum(ATSI.total_weight_tool) ) * 
+                    (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "A"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="Y"), 
+                    2
+                ),
+                ceil((sum(ATSI.total_weight_tool)) / 44000.00)   * 
+                (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "A"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="X")
+				
+				
+    ) AS order_cost
+FROM 
+    All_TOOL_Shipping_information ATSI
+JOIN 
+    Product_Information Pr_I
+ON 
+    ATSI.Product_Id = Pr_I.Product_Id
+	
+where pr_I.Supplier_ID=ATSI.Supplier
+and ATSI.Product_Id = Pr_I.Product_Id
+AND pr_I.Supplier_ID="A"
+
+GROUP BY ATSI.Order_Date,
+    ATSI.Supplier, 
+    ATSI.Store_Number;
+	
+	
+	
+-- supplier a without hammers
+INSERT INTO Supplier_A_Without_Hammers
+SELECT   
+    ATSI.Supplier AS "ALL_Supplier_ID", 
+    ATSI.Store_number, 
+    ATSI.order_date,
+    SUM(ATSI.total_weight_tool) AS total_weight_sum, 
+    SUM(ATSI.order_cost) AS total_cost_sum,
+	ROUND(
+                    (sum(ATSI.total_weight_tool) ) * 
+                    (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "A"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="Y"), 
+                    2
+                ) as "carrier_Y",
+	 ceil((sum(ATSI.total_weight_tool)) / 44000.00)   * 
+                (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "A"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="X")
+				as "carrier_X",
+	
+	MIN(
+        
+                ROUND(
+                    (sum(ATSI.total_weight_tool) ) * 
+                    (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "A"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="Y"), 
+                    2
+                ),
+                ceil((sum(ATSI.total_weight_tool)) / 44000.00)   * 
+                (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "A"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="X")
+				
+				
+    ) AS order_cost
+FROM 
+    All_TOOL_Shipping_information ATSI
+JOIN 
+    Product_Information Pr_I
+ON 
+    ATSI.Product_Id = Pr_I.Product_Id
+	
+where pr_I.Supplier_ID=ATSI.Supplier
+and ATSI.Product_Id = Pr_I.Product_Id
+AND pr_I.Supplier_ID="A"
+and atsi.Product_Id is NOT 4
+
+GROUP BY ATSI.Order_Date,
+    ATSI.Supplier, 
+    ATSI.Store_Number;
+
+	
+	--b with all tools
+	insert INTO Supplier_B_With_All_tools
+SELECT   
+    ATSI.Supplier AS "ALL_Supplier_ID", 
+    ATSI.Store_number, 
+    ATSI.order_date,
+    SUM(ATSI.total_weight_tool) AS total_weight_sum, 
+    SUM(ATSI.order_cost) AS total_cost_sum,
+	ROUND(
+                    (sum(ATSI.total_weight_tool) ) * 
+                    (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "B"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="Y"), 
+                    2
+                ) as "carrier_Y",
+	 ceil((sum(ATSI.total_weight_tool)) / 44000.00)   * 
+                (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "B"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="X")
+				as "carrier_X",
+	
+	MIN(
+        
+                ROUND(
+                    (sum(ATSI.total_weight_tool) ) * 
+                    (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "B"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="Y"), 
+                    2
+                ),
+                ceil((sum(ATSI.total_weight_tool)) / 44000.00)   * 
+                (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "B"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="X")
+				
+				
+    ) AS order_cost
+FROM 
+    All_TOOL_Shipping_information ATSI
+JOIN 
+    Product_Information Pr_I
+ON 
+    ATSI.Product_Id = Pr_I.Product_Id
+	
+where pr_I.Supplier_ID=ATSI.Supplier
+and ATSI.Product_Id = Pr_I.Product_Id
+AND pr_I.Supplier_ID="B"
+or
+ATSI.Product_Id =4
+AND
+atsi.Supplier="B"
+or
+ATSI.Product_Id =2
+AND
+atsi.Supplier="B"
+or
+ATSI.Product_Id =1
+AND
+atsi.Supplier="B"
+
+
+
+GROUP BY ATSI.Order_Date,
+    ATSI.Supplier, 
+    ATSI.Store_Number;
+
+	
+	
+	
+-- supplier b with hammers
+INSERT INTO Supplier_B_With_Hammers
+SELECT   
+    ATSI.Supplier AS "ALL_Supplier_ID", 
+    ATSI.Store_number, 
+    ATSI.order_date,
+    SUM(ATSI.total_weight_tool) AS total_weight_sum, 
+    SUM(ATSI.order_cost) AS total_cost_sum,
+	ROUND(
+                    (sum(ATSI.total_weight_tool) ) * 
+                    (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "B"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="Y"), 
+                    2
+                ) as "carrier_Y",
+	 ceil((sum(ATSI.total_weight_tool)) / 44000.00)   * 
+                (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "B"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="X")
+				as "carrier_X",
+	
+	MIN(
+        
+                ROUND(
+                    (sum(ATSI.total_weight_tool) ) * 
+                    (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "B"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="Y"), 
+                    2
+                ),
+                ceil((sum(ATSI.total_weight_tool)) / 44000.00)   * 
+                (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "B"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="X")
+				
+				
+    ) AS order_cost
+FROM 
+    All_TOOL_Shipping_information ATSI
+JOIN 
+    Product_Information Pr_I
+ON 
+    ATSI.Product_Id = Pr_I.Product_Id
+	
+where pr_I.Supplier_ID=ATSI.Supplier
+and ATSI.Product_Id = Pr_I.Product_Id
+AND pr_I.Supplier_ID="B"
+or
+ATSI.Product_Id =4
+AND
+atsi.Supplier="B"
+
+
+GROUP BY ATSI.Order_Date,
+    ATSI.Supplier, 
+    ATSI.Store_Number;
+
+	
+	
+-- b without hammers
+INSERT INTO Supplier_B_Without_Hammers
+SELECT  
+    ATSI.Supplier AS "ALL_Supplier_ID", 
+    ATSI.Store_number, 
+    ATSI.order_date,
+    SUM(ATSI.total_weight_tool) AS total_weight_sum, 
+    SUM(ATSI.order_cost) AS total_cost_sum,
+	ROUND(
+                    (sum(ATSI.total_weight_tool) ) * 
+                    (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "B"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="Y"), 
+                    2
+                ) as "carrier_Y",
+	 ceil((sum(ATSI.total_weight_tool)) / 44000.00)   * 
+                (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "B"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="X")
+				as "carrier_X",
+	
+	MIN(
+        
+                ROUND(
+                    (sum(ATSI.total_weight_tool) ) * 
+                    (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "B"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="Y"), 
+                    2
+                ),
+                ceil((sum(ATSI.total_weight_tool)) / 44000.00)   * 
+                (SELECT cr.cost FROM Carrier_Rates cr join All_TOOL_Shipping_information ATSI on cr.Store_number= ATSI.Store_Number  WHERE cr.Supplier = ATSI.Supplier and cr.Supplier= "B"   AND cr.Store_Number = ATSI.Store_Number and cr.Carrier="X")
+				
+				
+    ) AS order_cost
+FROM 
+    All_TOOL_Shipping_information ATSI
+JOIN 
+    Product_Information Pr_I
+ON 
+    ATSI.Product_Id = Pr_I.Product_Id
+	
+where pr_I.Supplier_ID=ATSI.Supplier
+and ATSI.Product_Id = Pr_I.Product_Id
+AND pr_I.Supplier_ID="B"
+
+
+
+GROUP BY ATSI.Order_Date,
+    ATSI.Supplier, 
+    ATSI.Store_Number;
+
+select *
+from Supplier_A_With_Hammers
+
+union ALL
+
+select *
+from Supplier_B_Without_Hammers;
+
+
+select *
+from Supplier_B_With_Hammers
+
+union ALL
+
+select *
+from Supplier_A_Without_Hammers;
+
+
+
+-- find hammer_production Cost
+select Supplier_Information.Supplier_ID,( Total_Quanity_By_Next_Year*Hammer_Cost_Per_Unit)
+from Product_Information, Supplier_Information 
+where Product_Information.Product_Id=4
+;
+
+
+select "Supplier_B_A_No_hammer" As "Supplier", ((select sum (order_cost)
+from Supplier_B_With_Hammers)+(
+select sum (order_cost)
+from Supplier_A_Without_Hammers)) as "total_Cost"
+
+
+union ALL
+
+select "Supplier_A_B_No_hammer" As "Supplier", ((select sum (order_cost)
+from Supplier_A_With_Hammers LIMIT 1)+(
+select sum (order_cost)
+from Supplier_B_Without_Hammers LIMIT 1)) as "total_Cost"
+
+
+
+union ALL
+
+select "Supplier_A_ALL_TOOLS" As "Supplier", sum (order_cost) as "Total_Cost"
+from Supplier_A_With_All_tools
+
+
+UNION ALL
+
+select "Supplier_B_ALL_TOOLS" As "Supplier", sum (order_cost) as "Total_Cost"
+from Supplier_B_With_All_tools
+;
+
+drop table Supplier_Cost_in_group_no_hammer_production;
+
+CREATE TABLE Supplier_Cost_in_group_no_hammer_production (
+    Supplier VARCHAR(50),
+    Total_Cost DECIMAL(18, 2)
+);
+
+INSERT INTO Supplier_Cost_in_group_no_hammer_production (Supplier, Total_Cost)
+select "Supplier_B_A_No_hammer" As "Supplier", ((select sum (order_cost)
+from Supplier_B_With_Hammers)+(
+select sum (order_cost)
+from Supplier_A_Without_Hammers)) as "total_Cost"
+
+
+union ALL
+
+select "Supplier_A_B_No_hammer" As "Supplier", ((select sum (order_cost)
+from Supplier_A_With_Hammers LIMIT 1)+(
+select sum (order_cost)
+from Supplier_B_Without_Hammers LIMIT 1)) as "total_Cost"
+
+
+
+union ALL
+
+select "Supplier_A_ALL_TOOLS" As "Supplier", sum (order_cost) as "Total_Cost"
+from Supplier_A_With_All_tools
+
+
+UNION ALL
+
+select "Supplier_B_ALL_TOOLS" As "Supplier", sum (order_cost) as "Total_Cost"
+from Supplier_B_With_All_tools
+;
+
+
+
+select su_I.Supplier_ID, (Total_Quanity_By_Next_Year*Hammer_Cost_Per_Unit) as "Hammer_Product_Cost"
+from Product_Information pr_I, Supplier_Information su_i
+where pr_I.Product_Id=4
+GROUP by su_I.Supplier_ID;
+
+
+drop table Supplier_Cost_in_group_with_hammer_production;
+
+CREATE TABLE Supplier_Cost_in_group_with_hammer_production (
+    Supplier VARCHAR(50),
+    Total_Cost DECIMAL(18, 2)
+);
+
+INSERT INTO Supplier_Cost_in_group_with_hammer_production (Supplier, Total_Cost)
+
+
+
+select "Supplier_B_A_No_hammer" As "Supplier", ((select sum (order_cost)
+from Supplier_B_With_Hammers)+(
+select sum (order_cost)
+from Supplier_A_Without_Hammers))+(
+select ( Total_Quanity_By_Next_Year*Hammer_Cost_Per_Unit)
+from Product_Information, Supplier_Information 
+where Product_Information.Product_Id=4
+and Supplier_Information.Supplier_ID="B") as "total_Cost"
+
+
+union ALL
+
+select "Supplier_A_B_No_hammer" As "Supplier", ((select sum (order_cost)
+from Supplier_A_With_Hammers LIMIT 1)+(
+select sum (order_cost)
+from Supplier_B_Without_Hammers LIMIT 1)+(
+select ( Total_Quanity_By_Next_Year*Hammer_Cost_Per_Unit)
+from Product_Information, Supplier_Information 
+where Product_Information.Product_Id=4
+and Supplier_Information.Supplier_ID="A"))as "total_Cost"
+
+
+
+union ALL
+
+select "Supplier_A_ALL_TOOLS" As "Supplier", (sum (order_cost)+(
+select ( Total_Quanity_By_Next_Year*Hammer_Cost_Per_Unit)
+from Product_Information, Supplier_Information 
+where Product_Information.Product_Id=4
+and Supplier_Information.Supplier_ID="A") ) as "Total_Cost"
+from Supplier_A_With_All_tools
+
+UNION ALL
+
+select "Supplier_B_ALL_TOOLS" As "Supplier", sum (order_cost) +(
+select ( Total_Quanity_By_Next_Year*Hammer_Cost_Per_Unit)
+from Product_Information, Supplier_Information 
+where Product_Information.Product_Id=4
+and Supplier_Information.Supplier_ID="B") as "total_Cost"
+from Supplier_B_With_All_tools
+;
+
+
+

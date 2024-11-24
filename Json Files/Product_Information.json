@@ -1,0 +1,38 @@
+[
+    {
+        "Package_Quantity": 1,
+        "Product_Description": "Wrench",
+        "Product_Id": 1,
+        "Supplier_ID": "A",
+        "Total_Quanity_By_Next_Year": 451731.5,
+        "Weight": 2.2,
+        "Weight_Unit_of_Measure": "LB"
+    },
+    {
+        "Package_Quantity": 1,
+        "Product_Description": "Saw",
+        "Product_Id": 2,
+        "Supplier_ID": "A",
+        "Total_Quanity_By_Next_Year": 664912.6,
+        "Weight": 1.2,
+        "Weight_Unit_of_Measure": "LB"
+    },
+    {
+        "Package_Quantity": 1,
+        "Product_Description": "Drill",
+        "Product_Id": 3,
+        "Supplier_ID": "B",
+        "Total_Quanity_By_Next_Year": 269122.7,
+        "Weight": 8.3,
+        "Weight_Unit_of_Measure": "LB"
+    },
+    {
+        "Package_Quantity": 1,
+        "Product_Description": "Hammer",
+        "Product_Id": 4,
+        "Supplier_ID": "A",
+        "Total_Quanity_By_Next_Year": 451731.5,
+        "Weight": 2,
+        "Weight_Unit_of_Measure": "LB"
+    }
+]
