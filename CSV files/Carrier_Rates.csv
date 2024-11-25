@@ -1,9 +1,0 @@
-Carrier,Supplier,Store_Number,Cost,Currency
-X,A,1,2540.0,$USA
-X,A,2,1640.0,$USA
-X,B,1,1200.0,$USA
-X,B,2,1200.0,$USA
-Y,A,1,0.12,$USA
-Y,A,2,0.07,$USA
-Y,B,1,0.07,$USA
-Y,B,2,0.06,$USA
