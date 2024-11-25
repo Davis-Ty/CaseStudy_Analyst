@@ -1,0 +1,3 @@
+Supplier_Name,Supplier_ID,Hammer_Cost_Per_Unit,Hammer_Product_Cost,Transportation_Cost,Currency,Max_LB_Per_Shipment,Total_Cost
+Supplier_B,B,0.82,370419.83,339040,USA,44000,"709,460"
+Supplier_A,A,0.8,361385.2,382990,USA,44000,"744,375"

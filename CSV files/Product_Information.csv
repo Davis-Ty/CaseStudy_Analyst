@@ -1,0 +1,5 @@
+Product_Id,Product_Description,Package_Quantity,Weight,Weight_Unit_of_Measure,Total_Quanity_By_Next_Year,Supplier_ID
+1,Wrench,1,2.2,LB,451731.5,A
+2,Saw,1,1.2,LB,664912.6,A
+3,Drill,1,8.3,LB,269122.7,B
+4,Hammer,1,2,LB,451731.5,A
